@@ -1,0 +1,16 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/hwlock/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/hwlock/</h1><hr><pre><a href="../">../</a>
+<a href="allwinner%2Csun6i-a31-hwspinlock.yaml">allwinner,sun6i-a31-hwspinlock.yaml</a>                11-Jul-2021 22:21                1028
+<a href="hwlock.txt">hwlock.txt</a>                                         12-Apr-2017 19:37                1911
+<a href="omap-hwspinlock.txt">omap-hwspinlock.txt</a>                                21-Jul-2019 21:11                1237
+<a href="qcom-hwspinlock.txt">qcom-hwspinlock.txt</a>                                12-Apr-2017 19:37                 915
+<a href="qcom-hwspinlock.yaml">qcom-hwspinlock.yaml</a>                               13-Nov-2022 21:17                1223
+<a href="sirf%2Chwspinlock.txt">sirf,hwspinlock.txt</a>                                12-Apr-2017 19:37                 701
+<a href="sprd-hwspinlock.txt">sprd-hwspinlock.txt</a>                                15-Jul-2017 22:33                 812
+<a href="st%2Cstm32-hwspinlock.txt">st,stm32-hwspinlock.txt</a>                            07-Jan-2019 01:15                 788
+<a href="st%2Cstm32-hwspinlock.yaml">st,stm32-hwspinlock.yaml</a>                           25-Dec-2022 21:49                 880
+<a href="ti%2Comap-hwspinlock.yaml">ti,omap-hwspinlock.yaml</a>                            03-Apr-2022 21:43                1168
+</pre><hr></body>
+</html>

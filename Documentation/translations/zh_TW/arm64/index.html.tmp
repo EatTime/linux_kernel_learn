@@ -1,0 +1,16 @@
+<html>
+<head><title>Index of /doc/Documentation/translations/zh_TW/arm64/</title></head>
+<body>
+<h1>Index of /doc/Documentation/translations/zh_TW/arm64/</h1><hr><pre><a href="../">../</a>
+<a href="amu.rst">amu.rst</a>                                            12-Sep-2021 23:34                3703
+<a href="booting.txt">booting.txt</a>                                        12-Sep-2021 23:34               11065
+<a href="elf_hwcaps.rst">elf_hwcaps.rst</a>                                     12-Sep-2021 23:34                6154
+<a href="hugetlbpage.rst">hugetlbpage.rst</a>                                    12-Sep-2021 23:34                1450
+<a href="index.rst">index.rst</a>                                          12-Sep-2021 23:34                 362
+<a href="legacy_instructions.txt">legacy_instructions.txt</a>                            12-Sep-2021 23:34                3604
+<a href="memory.txt">memory.txt</a>                                         12-Sep-2021 23:34                5558
+<a href="perf.rst">perf.rst</a>                                           12-Sep-2021 23:34                2826
+<a href="silicon-errata.txt">silicon-errata.txt</a>                                 12-Sep-2021 23:34                4641
+<a href="tagged-pointers.txt">tagged-pointers.txt</a>                                12-Sep-2021 23:34                2811
+</pre><hr></body>
+</html>

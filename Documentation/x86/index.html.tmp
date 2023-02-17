@@ -1,0 +1,66 @@
+<html>
+<head><title>Index of /doc/Documentation/x86/</title></head>
+<body>
+<h1>Index of /doc/Documentation/x86/</h1><hr><pre><a href="../">../</a>
+<a href="i386/">i386/</a>                                              14-May-2019 17:46                   -
+<a href="x86_64/">x86_64/</a>                                            14-Aug-2022 23:08                   -
+<a href="00-INDEX">00-INDEX</a>                                           16-Apr-2018 01:33                 637
+<a href="amd-memory-encryption.rst">amd-memory-encryption.rst</a>                          29-Jan-2023 22:13                6613
+<a href="amd-memory-encryption.txt">amd-memory-encryption.txt</a>                          27-Nov-2017 00:06                4440
+<a href="amd_hsmp.rst">amd_hsmp.rst</a>                                       03-Apr-2022 21:43                2805
+<a href="boot.rst">boot.rst</a>                                           25-Dec-2022 21:49               51133
+<a href="boot.txt">boot.txt</a>                                           07-Jan-2019 01:15               39594
+<a href="booting-dt.rst">booting-dt.rst</a>                                     25-Oct-2020 22:20                 938
+<a href="buslock.rst">buslock.rst</a>                                        11-Jul-2021 22:21                4746
+<a href="conf.py">conf.py</a>                                            14-May-2019 17:46                 224
+<a href="cpuinfo.rst">cpuinfo.rst</a>                                        06-Jun-2022 00:23                7987
+<a href="earlyprintk.rst">earlyprintk.rst</a>                                    16-Aug-2020 20:26                6365
+<a href="earlyprintk.txt">earlyprintk.txt</a>                                    16-Sep-2018 19:26                6154
+<a href="elf_auxvec.rst">elf_auxvec.rst</a>                                     11-Jul-2021 22:21                1484
+<a href="entry_64.rst">entry_64.rst</a>                                       16-Oct-2022 22:41                4321
+<a href="entry_64.txt">entry_64.txt</a>                                       12-Apr-2017 19:37                4223
+<a href="exception-tables.rst">exception-tables.rst</a>                               06-Jun-2022 00:23               14302
+<a href="exception-tables.txt">exception-tables.txt</a>                               12-Apr-2017 19:37               13334
+<a href="features.rst">features.rst</a>                                       27-Dec-2020 23:43                  90
+<a href="ifs.rst">ifs.rst</a>                                            06-Jun-2022 00:23                  89
+<a href="index.rst">index.rst</a>                                          06-Jun-2022 00:23                 579
+<a href="intel-hfi.rst">intel-hfi.rst</a>                                      03-Apr-2022 21:43                3576
+<a href="intel-iommu.rst">intel-iommu.rst</a>                                    12-Apr-2020 19:42                3988
+<a href="intel_mpx.rst">intel_mpx.rst</a>                                      14-May-2019 17:46               11399
+<a href="intel_mpx.txt">intel_mpx.txt</a>                                      12-Apr-2017 19:37               11190
+<a href="intel_rdt_ui.txt">intel_rdt_ui.txt</a>                                   04-Nov-2018 23:45               41616
+<a href="intel_txt.rst">intel_txt.rst</a>                                      21-Jul-2019 21:11               10497
+<a href="iommu.rst">iommu.rst</a>                                          06-Jun-2022 00:23                4982
+<a href="kernel-stacks">kernel-stacks</a>                                      12-Apr-2017 19:37                6292
+<a href="kernel-stacks.rst">kernel-stacks.rst</a>                                  14-May-2019 17:46                6675
+<a href="mds.rst">mds.rst</a>                                            19-May-2019 22:53                8694
+<a href="microcode.rst">microcode.rst</a>                                      16-Oct-2022 22:41                8003
+<a href="microcode.txt">microcode.txt</a>                                      11-Feb-2018 23:13                3987
+<a href="mtrr.rst">mtrr.rst</a>                                           11-Jul-2021 22:21               11911
+<a href="mtrr.txt">mtrr.txt</a>                                           12-Apr-2017 19:37               11836
+<a href="orc-unwinder.rst">orc-unwinder.rst</a>                                   14-Aug-2022 23:08                8225
+<a href="orc-unwinder.txt">orc-unwinder.txt</a>                                   27-Nov-2017 00:06                8172
+<a href="pat.rst">pat.rst</a>                                            10-Feb-2020 00:19               11799
+<a href="pat.txt">pat.txt</a>                                            04-Nov-2018 23:45               11320
+<a href="protection-keys.rst">protection-keys.rst</a>                                14-May-2019 17:46                3467
+<a href="protection-keys.txt">protection-keys.txt</a>                                27-Nov-2017 00:06                3423
+<a href="pti.rst">pti.rst</a>                                            14-May-2019 17:46                9119
+<a href="pti.txt">pti.txt</a>                                            22-Jan-2018 01:44                8980
+<a href="resctrl.rst">resctrl.rst</a>                                        27-Dec-2020 23:43               48057
+<a href="resctrl_ui.rst">resctrl_ui.rst</a>                                     25-Oct-2020 22:20               43676
+<a href="resctrl_ui.txt">resctrl_ui.txt</a>                                     03-Feb-2019 21:51               41736
+<a href="sgx.rst">sgx.rst</a>                                            14-Aug-2022 23:08               13111
+<a href="sva.rst">sva.rst</a>                                            03-Apr-2022 21:43               13595
+<a href="tdx.rst">tdx.rst</a>                                            25-Dec-2022 21:49               10827
+<a href="tlb.rst">tlb.rst</a>                                            14-May-2019 17:46                3730
+<a href="tlb.txt">tlb.txt</a>                                            12-Apr-2017 19:37                3639
+<a href="topology.rst">topology.rst</a>                                       27-Dec-2020 23:43                7397
+<a href="topology.txt">topology.txt</a>                                       26-Feb-2018 02:57                6869
+<a href="tsx_async_abort.rst">tsx_async_abort.rst</a>                                12-Nov-2019 21:20                6974
+<a href="usb-legacy-support.rst">usb-legacy-support.rst</a>                             14-May-2019 17:46                1887
+<a href="usb-legacy-support.txt">usb-legacy-support.txt</a>                             12-Apr-2017 19:37                1798
+<a href="xstate.rst">xstate.rst</a>                                         14-Nov-2021 22:02                3290
+<a href="zero-page.rst">zero-page.rst</a>                                      06-Jun-2022 00:23                2275
+<a href="zero-page.txt">zero-page.txt</a>                                      11-Nov-2018 23:14                1830
+</pre><hr></body>
+</html>

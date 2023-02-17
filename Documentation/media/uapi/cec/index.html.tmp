@@ -1,0 +1,22 @@
+<html>
+<head><title>Index of /doc/Documentation/media/uapi/cec/</title></head>
+<body>
+<h1>Index of /doc/Documentation/media/uapi/cec/</h1><hr><pre><a href="../">../</a>
+<a href="cec-api.rst">cec-api.rst</a>                                        21-Jul-2020 14:32                1143
+<a href="cec-func-close.rst">cec-func-close.rst</a>                                 21-Jul-2020 14:32                1136
+<a href="cec-func-ioctl.rst">cec-func-ioctl.rst</a>                                 21-Jul-2020 14:32                1959
+<a href="cec-func-open.rst">cec-func-open.rst</a>                                  21-Jul-2020 14:32                2129
+<a href="cec-func-poll.rst">cec-func-poll.rst</a>                                  21-Jul-2020 14:32                2286
+<a href="cec-funcs.rst">cec-funcs.rst</a>                                      21-Jul-2020 14:32                 799
+<a href="cec-header.rst">cec-header.rst</a>                                     21-Jul-2020 14:32                 552
+<a href="cec-intro.rst">cec-intro.rst</a>                                      21-Jul-2020 14:32                2191
+<a href="cec-ioc-adap-g-caps.rst">cec-ioc-adap-g-caps.rst</a>                            21-Jul-2020 14:32                4512
+<a href="cec-ioc-adap-g-conn-info.rst">cec-ioc-adap-g-conn-info.rst</a>                       21-Jul-2020 14:32                2500
+<a href="cec-ioc-adap-g-log-addrs.rst">cec-ioc-adap-g-log-addrs.rst</a>                       21-Jul-2020 14:32               12709
+<a href="cec-ioc-adap-g-phys-addr.rst">cec-ioc-adap-g-phys-addr.rst</a>                       21-Jul-2020 14:32                3708
+<a href="cec-ioc-dqevent.rst">cec-ioc-dqevent.rst</a>                                21-Jul-2020 14:32                8312
+<a href="cec-ioc-g-mode.rst">cec-ioc-g-mode.rst</a>                                 21-Jul-2020 14:32               11929
+<a href="cec-ioc-receive.rst">cec-ioc-receive.rst</a>                                21-Jul-2020 14:32               15435
+<a href="cec-pin-error-inj.rst">cec-pin-error-inj.rst</a>                              21-Jul-2020 14:32               15651
+</pre><hr></body>
+</html>

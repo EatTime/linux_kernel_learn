@@ -1,0 +1,22 @@
+<html>
+<head><title>Index of /doc/Documentation/userspace-api/media/cec/</title></head>
+<body>
+<h1>Index of /doc/Documentation/userspace-api/media/cec/</h1><hr><pre><a href="../">../</a>
+<a href="cec-api.rst">cec-api.rst</a>                                        25-Oct-2020 22:20                 758
+<a href="cec-func-close.rst">cec-func-close.rst</a>                                 25-Oct-2020 22:20                 725
+<a href="cec-func-ioctl.rst">cec-func-ioctl.rst</a>                                 25-Oct-2020 22:20                1536
+<a href="cec-func-open.rst">cec-func-open.rst</a>                                  25-Oct-2020 22:20                1721
+<a href="cec-func-poll.rst">cec-func-poll.rst</a>                                  25-Oct-2020 22:20                1856
+<a href="cec-funcs.rst">cec-funcs.rst</a>                                      25-Oct-2020 22:20                 415
+<a href="cec-header.rst">cec-header.rst</a>                                     25-Oct-2020 22:20                 168
+<a href="cec-intro.rst">cec-intro.rst</a>                                      25-Oct-2020 22:20                1807
+<a href="cec-ioc-adap-g-caps.rst">cec-ioc-adap-g-caps.rst</a>                            09-May-2021 21:22                4243
+<a href="cec-ioc-adap-g-conn-info.rst">cec-ioc-adap-g-conn-info.rst</a>                       09-May-2021 21:22                2498
+<a href="cec-ioc-adap-g-log-addrs.rst">cec-ioc-adap-g-log-addrs.rst</a>                       09-May-2021 21:22               12308
+<a href="cec-ioc-adap-g-phys-addr.rst">cec-ioc-adap-g-phys-addr.rst</a>                       25-Oct-2020 22:20                3310
+<a href="cec-ioc-dqevent.rst">cec-ioc-dqevent.rst</a>                                09-May-2021 21:22                7920
+<a href="cec-ioc-g-mode.rst">cec-ioc-g-mode.rst</a>                                 09-May-2021 21:22               11532
+<a href="cec-ioc-receive.rst">cec-ioc-receive.rst</a>                                23-Jan-2022 08:18               15568
+<a href="cec-pin-error-inj.rst">cec-pin-error-inj.rst</a>                              25-Dec-2022 21:49               15291
+</pre><hr></body>
+</html>

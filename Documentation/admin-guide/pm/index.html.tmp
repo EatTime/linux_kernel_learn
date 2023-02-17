@@ -1,0 +1,21 @@
+<html>
+<head><title>Index of /doc/Documentation/admin-guide/pm/</title></head>
+<body>
+<h1>Index of /doc/Documentation/admin-guide/pm/</h1><hr><pre><a href="../">../</a>
+<a href="amd-pstate.rst">amd-pstate.rst</a>                                     25-Dec-2022 21:49               41972
+<a href="cpufreq.rst">cpufreq.rst</a>                                        25-Oct-2020 22:20               34029
+<a href="cpufreq_drivers.rst">cpufreq_drivers.rst</a>                                12-Apr-2020 19:42               10708
+<a href="cpuidle.rst">cpuidle.rst</a>                                        14-Aug-2022 23:08               38611
+<a href="index.rst">index.rst</a>                                          14-May-2019 17:46                 165
+<a href="intel-speed-select.rst">intel-speed-select.rst</a>                             06-Jun-2022 00:23               31416
+<a href="intel_epb.rst">intel_epb.rst</a>                                      14-May-2019 17:46                1647
+<a href="intel_idle.rst">intel_idle.rst</a>                                     11-Jul-2021 22:21               15429
+<a href="intel_pstate.rst">intel_pstate.rst</a>                                   11-Jul-2021 22:21               37021
+<a href="intel_uncore_frequency_scaling.rst">intel_uncore_frequency_scaling.rst</a>                 03-Apr-2022 21:43                2399
+<a href="sleep-states.rst">sleep-states.rst</a>                                   10-Feb-2020 00:19               13567
+<a href="strategies.rst">strategies.rst</a>                                     14-May-2019 17:46                3195
+<a href="suspend-flows.rst">suspend-flows.rst</a>                                  12-Apr-2020 19:42               11801
+<a href="system-wide.rst">system-wide.rst</a>                                    12-Apr-2020 19:42                 188
+<a href="working-state.rst">working-state.rst</a>                                  03-Apr-2022 21:43                 315
+</pre><hr></body>
+</html>

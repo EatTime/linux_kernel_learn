@@ -1,0 +1,46 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/mailbox/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/mailbox/</h1><hr><pre><a href="../">../</a>
+<a href="allwinner%2Csun6i-a31-msgbox.yaml">allwinner,sun6i-a31-msgbox.yaml</a>                    12-Apr-2020 19:42                2067
+<a href="altera-mailbox.txt">altera-mailbox.txt</a>                                 26-Aug-2018 21:24                1416
+<a href="amlogic%2Cmeson-gxbb-mhu.yaml">amlogic,meson-gxbb-mhu.yaml</a>                        18-Sep-2022 20:47                1374
+<a href="apple%2Cmailbox.yaml">apple,mailbox.yaml</a>                                 23-Jan-2022 08:18                2472
+<a href="arm%2Cmhu.yaml">arm,mhu.yaml</a>                                       14-Aug-2022 23:08                4876
+<a href="arm%2Cmhuv2.yaml">arm,mhuv2.yaml</a>                                     11-Jul-2021 22:21                7497
+<a href="arm-mhu.txt">arm-mhu.txt</a>                                        12-Apr-2017 19:37                1405
+<a href="brcm%2Cbcm2835-mbox.txt">brcm,bcm2835-mbox.txt</a>                              12-Apr-2017 19:37                 708
+<a href="brcm%2Ciproc-flexrm-mbox.txt">brcm,iproc-flexrm-mbox.txt</a>                         13-May-2017 20:33                2228
+<a href="brcm%2Ciproc-pdc-mbox.txt">brcm,iproc-pdc-mbox.txt</a>                            11-Dec-2017 02:00                 967
+<a href="fsl%2Cmu.txt">fsl,mu.txt</a>                                         21-Jul-2020 14:32                2226
+<a href="fsl%2Cmu.yaml">fsl,mu.yaml</a>                                        14-Aug-2022 23:08                3465
+<a href="hisilicon%2Chi3660-mailbox.txt">hisilicon,hi3660-mailbox.txt</a>                       16-Apr-2018 01:33                1417
+<a href="hisilicon%2Chi6220-mailbox.txt">hisilicon,hi6220-mailbox.txt</a>                       12-Apr-2017 19:37                2398
+<a href="mailbox.txt">mailbox.txt</a>                                        16-Apr-2018 01:33                1299
+<a href="marvell%2Carmada-3700-rwtm-mailbox.txt">marvell,armada-3700-rwtm-mailbox.txt</a>               14-May-2019 17:46                 454
+<a href="mediatek%2Cgce-mailbox.yaml">mediatek,gce-mailbox.yaml</a>                          25-Dec-2022 21:49                1961
+<a href="meson-mhu.txt">meson-mhu.txt</a>                                      12-Apr-2017 19:37                1169
+<a href="microchip%2Cmpfs-mailbox.yaml">microchip,mpfs-mailbox.yaml</a>                        16-Oct-2022 22:41                1280
+<a href="microchip%2Cpolarfire-soc-mailbox.yaml">microchip,polarfire-soc-mailbox.yaml</a>               11-Jul-2021 22:21                1042
+<a href="mtk%2Cadsp-mbox.yaml">mtk,adsp-mbox.yaml</a>                                 06-Jun-2022 00:23                1203
+<a href="mtk-gce.txt">mtk-gce.txt</a>                                        03-Apr-2022 21:43                3144
+<a href="nvidia%2Ctegra186-hsp.txt">nvidia,tegra186-hsp.txt</a>                            07-Jan-2019 01:15                2658
+<a href="nvidia%2Ctegra186-hsp.yaml">nvidia,tegra186-hsp.yaml</a>                           06-Jun-2022 00:23                3792
+<a href="omap-mailbox.txt">omap-mailbox.txt</a>                                   01-Mar-2021 00:09                7490
+<a href="qcom%2Capcs-kpss-global.txt">qcom,apcs-kpss-global.txt</a>                          21-Jul-2020 14:32                2320
+<a href="qcom%2Capcs-kpss-global.yaml">qcom,apcs-kpss-global.yaml</a>                         25-Dec-2022 21:49                4443
+<a href="qcom-ipcc.yaml">qcom-ipcc.yaml</a>                                     25-Dec-2022 21:49                2226
+<a href="rockchip-mailbox.txt">rockchip-mailbox.txt</a>                               12-Apr-2017 19:37                 969
+<a href="sprd-mailbox.yaml">sprd-mailbox.yaml</a>                                  25-Dec-2022 21:49                1419
+<a href="st%2Cstm32-ipcc.yaml">st,stm32-ipcc.yaml</a>                                 25-Dec-2022 21:49                1725
+<a href="sti-mailbox.txt">sti-mailbox.txt</a>                                    12-Apr-2017 19:37                1374
+<a href="stm32-ipcc.txt">stm32-ipcc.txt</a>                                     16-Jun-2018 23:08                1638
+<a href="ti%2Cmessage-manager.txt">ti,message-manager.txt</a>                             11-Feb-2018 23:13                1756
+<a href="ti%2Comap-mailbox.yaml">ti,omap-mailbox.yaml</a>                               23-Jan-2022 08:18               10320
+<a href="ti%2Csecure-proxy.txt">ti,secure-proxy.txt</a>                                26-Aug-2018 21:24                1640
+<a href="ti%2Csecure-proxy.yaml">ti,secure-proxy.yaml</a>                               09-May-2021 21:22                2017
+<a href="xgene-slimpro-mailbox.txt">xgene-slimpro-mailbox.txt</a>                          12-Apr-2017 19:37                1066
+<a href="xlnx%2Czynqmp-ipi-mailbox.txt">xlnx,zynqmp-ipi-mailbox.txt</a>                        21-Jul-2020 14:49                4184
+<a href="xlnx%2Czynqmp-ipi-mailbox.yaml">xlnx,zynqmp-ipi-mailbox.yaml</a>                       06-Jun-2022 00:23                4029
+</pre><hr></body>
+</html>

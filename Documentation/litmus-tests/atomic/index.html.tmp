@@ -1,0 +1,8 @@
+<html>
+<head><title>Index of /doc/Documentation/litmus-tests/atomic/</title></head>
+<body>
+<h1>Index of /doc/Documentation/litmus-tests/atomic/</h1><hr><pre><a href="../">../</a>
+<a href="Atomic-RMW%2Bmb__after_atomic-is-stronger-than-acquire.litmus">Atomic-RMW+mb__after_atomic-is-stronger-than-ac..&gt;</a> 16-Aug-2020 20:26                 508
+<a href="Atomic-RMW-ops-are-atomic-WRT-atomic_set.litmus">Atomic-RMW-ops-are-atomic-WRT-atomic_set.litmus</a>    16-Aug-2020 20:26                 357
+</pre><hr></body>
+</html>

@@ -1,0 +1,36 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/misc/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/misc/</h1><hr><pre><a href="../">../</a>
+<a href="allwinner%2Csyscon.txt">allwinner,syscon.txt</a>                               15-Jul-2017 22:33                 690
+<a href="arm-charlcd.txt">arm-charlcd.txt</a>                                    12-Apr-2017 19:37                 533
+<a href="aspeed%2Ccvic.txt">aspeed,cvic.txt</a>                                    26-Aug-2018 21:24                1108
+<a href="aspeed-p2a-ctrl.txt">aspeed-p2a-ctrl.txt</a>                                10-Feb-2020 00:19                1439
+<a href="atmel-ssc.txt">atmel-ssc.txt</a>                                      16-Sep-2017 23:22                1703
+<a href="brcm%2Ckona-smc.txt">brcm,kona-smc.txt</a>                                  11-Dec-2017 02:00                 458
+<a href="eeprom-93xx46.txt">eeprom-93xx46.txt</a>                                  11-Jul-2021 22:21                 882
+<a href="eeprom-93xx46.yaml">eeprom-93xx46.yaml</a>                                 12-Sep-2021 23:34                1453
+<a href="fsl%2Cdpaa2-console.txt">fsl,dpaa2-console.txt</a>                              21-Jul-2019 21:11                 340
+<a href="fsl%2Cdpaa2-console.yaml">fsl,dpaa2-console.yaml</a>                             01-Mar-2021 00:09                 583
+<a href="fsl%2Cqoriq-mc.txt">fsl,qoriq-mc.txt</a>                                   16-Aug-2020 20:26                7139
+<a href="ge-achc.txt">ge-achc.txt</a>                                        27-Nov-2017 00:06                 586
+<a href="ge-achc.yaml">ge-achc.yaml</a>                                       12-Sep-2021 23:34                1419
+<a href="idt%2C89hpesx.yaml">idt,89hpesx.yaml</a>                                   25-Dec-2022 21:49                1591
+<a href="idt_89hpesx.txt">idt_89hpesx.txt</a>                                    12-Apr-2017 19:37                1631
+<a href="ifm-csi.txt">ifm-csi.txt</a>                                        12-Apr-2017 19:37                1479
+<a href="intel%2Cixp4xx-ahb-queue-manager.yaml">intel,ixp4xx-ahb-queue-manager.yaml</a>                12-Apr-2020 19:42                1464
+<a href="intel%2Cixp4xx-queue-manager.yaml">intel,ixp4xx-queue-manager.yaml</a>                    19-May-2019 22:53                1435
+<a href="lwn-bk4.txt">lwn-bk4.txt</a>                                        04-Nov-2018 23:45                 596
+<a href="nvidia%2Ctegra186-misc.txt">nvidia,tegra186-misc.txt</a>                           25-Oct-2020 22:20                 645
+<a href="nvidia%2Ctegra186-misc.yaml">nvidia,tegra186-misc.yaml</a>                          23-Jan-2022 08:18                1105
+<a href="nvidia%2Ctegra20-apbmisc.txt">nvidia,tegra20-apbmisc.txt</a>                         25-Oct-2020 22:20                 823
+<a href="nvidia%2Ctegra20-apbmisc.yaml">nvidia,tegra20-apbmisc.yaml</a>                        23-Jan-2022 08:18                1303
+<a href="olpc%2Cxo1.75-ec.txt">olpc,xo1.75-ec.txt</a>                                 21-Jul-2020 14:49                 661
+<a href="olpc%2Cxo1.75-ec.yaml">olpc,xo1.75-ec.yaml</a>                                25-Dec-2022 21:49                1353
+<a href="pvpanic-mmio.txt">pvpanic-mmio.txt</a>                                   07-Jan-2019 01:15                 700
+<a href="qcom%2Cfastrpc.txt">qcom,fastrpc.txt</a>                                   03-Apr-2022 21:43                1959
+<a href="qcom%2Cfastrpc.yaml">qcom,fastrpc.yaml</a>                                  25-Dec-2022 21:49                3597
+<a href="qemu%2Cvcpu-stall-detector.yaml">qemu,vcpu-stall-detector.yaml</a>                      14-Aug-2022 23:08                1250
+<a href="xlnx%2Csd-fec.txt">xlnx,sd-fec.txt</a>                                    21-Jul-2019 21:11                3056
+</pre><hr></body>
+</html>

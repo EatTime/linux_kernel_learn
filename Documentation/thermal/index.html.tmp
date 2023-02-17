@@ -1,0 +1,23 @@
+<html>
+<head><title>Index of /doc/Documentation/thermal/</title></head>
+<body>
+<h1>Index of /doc/Documentation/thermal/</h1><hr><pre><a href="../">../</a>
+<a href="cpu-cooling-api.rst">cpu-cooling-api.rst</a>                                21-Jul-2019 21:11                3994
+<a href="cpu-cooling-api.txt">cpu-cooling-api.txt</a>                                11-Feb-2018 23:13                3874
+<a href="exynos_thermal">exynos_thermal</a>                                     12-Apr-2017 19:37                2882
+<a href="exynos_thermal.rst">exynos_thermal.rst</a>                                 21-Jul-2019 21:11                2953
+<a href="exynos_thermal_emulation">exynos_thermal_emulation</a>                           12-Apr-2017 19:37                2222
+<a href="exynos_thermal_emulation.rst">exynos_thermal_emulation.rst</a>                       21-Jul-2019 21:11                2207
+<a href="index.rst">index.rst</a>                                          21-Jul-2019 21:11                 233
+<a href="intel_powerclamp.rst">intel_powerclamp.rst</a>                               21-Jul-2019 21:11               12774
+<a href="intel_powerclamp.txt">intel_powerclamp.txt</a>                               13-May-2017 20:33               12234
+<a href="nouveau_thermal">nouveau_thermal</a>                                    12-Apr-2017 19:37                2810
+<a href="nouveau_thermal.rst">nouveau_thermal.rst</a>                                21-Jul-2019 21:11                2862
+<a href="power_allocator.rst">power_allocator.rst</a>                                21-Jul-2019 21:11               10415
+<a href="power_allocator.txt">power_allocator.txt</a>                                07-Jan-2019 01:15               10453
+<a href="sysfs-api.rst">sysfs-api.rst</a>                                      21-Jul-2019 21:11               27675
+<a href="sysfs-api.txt">sysfs-api.txt</a>                                      14-May-2019 17:46               27017
+<a href="x86_pkg_temperature_thermal">x86_pkg_temperature_thermal</a>                        12-Apr-2017 19:37                1439
+<a href="x86_pkg_temperature_thermal.rst">x86_pkg_temperature_thermal.rst</a>                    21-Jul-2019 21:11                1507
+</pre><hr></body>
+</html>

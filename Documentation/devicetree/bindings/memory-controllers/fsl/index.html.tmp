@@ -1,0 +1,13 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/memory-controllers/fsl/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/memory-controllers/fsl/</h1><hr><pre><a href="../">../</a>
+<a href="ddr.txt">ddr.txt</a>                                            12-Apr-2017 19:37                 738
+<a href="fsl%2Cddr.yaml">fsl,ddr.yaml</a>                                       06-Jun-2022 00:23                2039
+<a href="fsl%2Cifc.yaml">fsl,ifc.yaml</a>                                       03-Apr-2022 21:43                3210
+<a href="ifc.txt">ifc.txt</a>                                            12-Apr-2017 19:37                2419
+<a href="imx8m-ddrc.yaml">imx8m-ddrc.yaml</a>                                    16-Oct-2022 22:41                1880
+<a href="mmdc.txt">mmdc.txt</a>                                           19-May-2019 22:53                 955
+<a href="mmdc.yaml">mmdc.yaml</a>                                          25-Oct-2020 22:20                1086
+</pre><hr></body>
+</html>

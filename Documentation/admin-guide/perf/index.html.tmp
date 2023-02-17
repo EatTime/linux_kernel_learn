@@ -1,0 +1,21 @@
+<html>
+<head><title>Index of /doc/Documentation/admin-guide/perf/</title></head>
+<body>
+<h1>Index of /doc/Documentation/admin-guide/perf/</h1><hr><pre><a href="../">../</a>
+<a href="alibaba_pmu.rst">alibaba_pmu.rst</a>                                    16-Oct-2022 22:41                4131
+<a href="arm-ccn.rst">arm-ccn.rst</a>                                        16-Aug-2020 20:26                2513
+<a href="arm-cmn.rst">arm-cmn.rst</a>                                        01-Mar-2021 00:09                3064
+<a href="arm_dsu_pmu.rst">arm_dsu_pmu.rst</a>                                    21-Jul-2019 21:11                1235
+<a href="hisi-pcie-pmu.rst">hisi-pcie-pmu.rst</a>                                  25-Dec-2022 21:49                4766
+<a href="hisi-pmu.rst">hisi-pmu.rst</a>                                       09-May-2021 21:22                5031
+<a href="hns3-pmu.rst">hns3-pmu.rst</a>                                       14-Aug-2022 23:08                4503
+<a href="imx-ddr.rst">imx-ddr.rst</a>                                        27-Dec-2020 23:43                3549
+<a href="index.rst">index.rst</a>                                          25-Dec-2022 21:49                 347
+<a href="meson-ddr-pmu.rst">meson-ddr-pmu.rst</a>                                  25-Dec-2022 21:49                2480
+<a href="nvidia-pmu.rst">nvidia-pmu.rst</a>                                     25-Dec-2022 21:49               12825
+<a href="qcom_l2_pmu.rst">qcom_l2_pmu.rst</a>                                    21-Jul-2019 21:11                1665
+<a href="qcom_l3_pmu.rst">qcom_l3_pmu.rst</a>                                    21-Jul-2019 21:11                1419
+<a href="thunderx2-pmu.rst">thunderx2-pmu.rst</a>                                  08-Dec-2019 23:13                1793
+<a href="xgene-pmu.rst">xgene-pmu.rst</a>                                      21-Jul-2019 21:11                2355
+</pre><hr></body>
+</html>

@@ -1,0 +1,13 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/iio/gyroscope/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/iio/gyroscope/</h1><hr><pre><a href="../">../</a>
+<a href="adi%2Cadxrs290.yaml">adi,adxrs290.yaml</a>                                  25-Dec-2022 21:49                1344
+<a href="bmg160.txt">bmg160.txt</a>                                         21-Jul-2020 14:49                 482
+<a href="bosch%2Cbmg160.yaml">bosch,bmg160.yaml</a>                                  04-Sep-2022 20:11                1087
+<a href="invensense%2Cmpu3050.txt">invensense,mpu3050.txt</a>                             26-Aug-2018 21:24                1390
+<a href="invensense%2Cmpu3050.yaml">invensense,mpu3050.yaml</a>                            23-Jan-2022 08:18                1663
+<a href="nxp%2Cfxas21002c.txt">nxp,fxas21002c.txt</a>                                 14-May-2019 17:46                1285
+<a href="nxp%2Cfxas21002c.yaml">nxp,fxas21002c.yaml</a>                                25-Dec-2022 21:49                2161
+</pre><hr></body>
+</html>

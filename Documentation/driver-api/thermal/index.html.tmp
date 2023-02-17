@@ -1,0 +1,17 @@
+<html>
+<head><title>Index of /doc/Documentation/driver-api/thermal/</title></head>
+<body>
+<h1>Index of /doc/Documentation/driver-api/thermal/</h1><hr><pre><a href="../">../</a>
+<a href="cpu-cooling-api.rst">cpu-cooling-api.rst</a>                                30-Sep-2019 17:47                3994
+<a href="cpu-idle-cooling.rst">cpu-idle-cooling.rst</a>                               16-Aug-2020 20:26                7297
+<a href="exynos_thermal.rst">exynos_thermal.rst</a>                                 10-Feb-2020 00:19                2957
+<a href="exynos_thermal_emulation.rst">exynos_thermal_emulation.rst</a>                       30-Sep-2019 17:47                2207
+<a href="index.rst">index.rst</a>                                          03-Apr-2022 21:43                 294
+<a href="intel_dptf.rst">intel_dptf.rst</a>                                     06-Jun-2022 00:23                8613
+<a href="intel_powerclamp.rst">intel_powerclamp.rst</a>                               30-Sep-2019 17:47               12774
+<a href="nouveau_thermal.rst">nouveau_thermal.rst</a>                                12-Sep-2021 23:34                2859
+<a href="power_allocator.rst">power_allocator.rst</a>                                27-Dec-2020 23:43               10877
+<a href="sysfs-api.rst">sysfs-api.rst</a>                                      14-Nov-2021 22:02               19286
+<a href="x86_pkg_temperature_thermal.rst">x86_pkg_temperature_thermal.rst</a>                    30-Sep-2019 17:47                1518
+</pre><hr></body>
+</html>

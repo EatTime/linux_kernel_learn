@@ -1,0 +1,38 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/power/reset/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/power/reset/</h1><hr><pre><a href="../">../</a>
+<a href="axxia-reset.txt">axxia-reset.txt</a>                                    12-Apr-2017 19:37                 444
+<a href="brcm%2Cbcm21664-resetmgr.txt">brcm,bcm21664-resetmgr.txt</a>                         12-Apr-2017 19:37                 328
+<a href="gemini-poweroff.txt">gemini-poweroff.txt</a>                                13-May-2017 20:33                 531
+<a href="gpio-poweroff.txt">gpio-poweroff.txt</a>                                  07-Jan-2019 01:15                1849
+<a href="gpio-poweroff.yaml">gpio-poweroff.yaml</a>                                 23-Jan-2022 08:18                1615
+<a href="gpio-restart.txt">gpio-restart.txt</a>                                   12-Apr-2017 19:37                2388
+<a href="gpio-restart.yaml">gpio-restart.yaml</a>                                  25-Dec-2022 21:49                2771
+<a href="imx-snvs-poweroff.txt">imx-snvs-poweroff.txt</a>                              27-Nov-2017 00:06                 656
+<a href="keystone-reset.txt">keystone-reset.txt</a>                                 27-Nov-2017 00:06                2054
+<a href="ltc2952-poweroff.txt">ltc2952-poweroff.txt</a>                               09-May-2021 21:22                1129
+<a href="msm-poweroff.txt">msm-poweroff.txt</a>                                   12-Apr-2017 19:37                 433
+<a href="mt6323-poweroff.txt">mt6323-poweroff.txt</a>                                30-Sep-2019 17:47                 531
+<a href="nvmem-reboot-mode.txt">nvmem-reboot-mode.txt</a>                              21-Jul-2019 21:11                 794
+<a href="ocelot-reset.txt">ocelot-reset.txt</a>                                   27-Dec-2020 23:43                 472
+<a href="qcom%2Cpon.txt">qcom,pon.txt</a>                                       21-Jul-2019 21:11                1138
+<a href="qcom%2Cpon.yaml">qcom,pon.yaml</a>                                      16-Oct-2022 22:41                2954
+<a href="qcom%2Cpshold.yaml">qcom,pshold.yaml</a>                                   14-Aug-2022 23:08                 796
+<a href="qnap-poweroff.txt">qnap-poweroff.txt</a>                                  12-Apr-2017 19:37                 535
+<a href="reboot-mode.txt">reboot-mode.txt</a>                                    12-Apr-2017 19:37                1083
+<a href="reboot-mode.yaml">reboot-mode.yaml</a>                                   12-Sep-2021 23:34                1623
+<a href="regulator-poweroff.yaml">regulator-poweroff.yaml</a>                            14-Aug-2022 23:08                 870
+<a href="restart-handler.yaml">restart-handler.yaml</a>                               25-Dec-2022 21:49                1150
+<a href="restart-poweroff.txt">restart-poweroff.txt</a>                               12-Apr-2017 19:37                 246
+<a href="st-reset.txt">st-reset.txt</a>                                       16-Sep-2017 23:22                 270
+<a href="syscon-poweroff.txt">syscon-poweroff.txt</a>                                13-May-2017 20:33                1001
+<a href="syscon-poweroff.yaml">syscon-poweroff.yaml</a>                               12-Apr-2020 19:42                1572
+<a href="syscon-reboot-mode.txt">syscon-reboot-mode.txt</a>                             21-Jul-2020 14:32                1049
+<a href="syscon-reboot-mode.yaml">syscon-reboot-mode.yaml</a>                            21-Jul-2020 14:49                1562
+<a href="syscon-reboot.txt">syscon-reboot.txt</a>                                  19-May-2019 22:53                 970
+<a href="syscon-reboot.yaml">syscon-reboot.yaml</a>                                 21-Jul-2020 14:49                1913
+<a href="xlnx%2Czynqmp-power.txt">xlnx,zynqmp-power.txt</a>                              10-Feb-2020 00:19                1869
+<a href="xlnx%2Czynqmp-power.yaml">xlnx,zynqmp-power.yaml</a>                             25-Dec-2022 21:49                2062
+</pre><hr></body>
+</html>

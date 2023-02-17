@@ -1,0 +1,12 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/ptp/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/ptp/</h1><hr><pre><a href="../">../</a>
+<a href="brcm%2Cptp-dte.txt">brcm,ptp-dte.txt</a>                                   16-Sep-2017 23:22                 639
+<a href="ptp-idt82p33.yaml">ptp-idt82p33.yaml</a>                                  16-Oct-2022 22:41                 820
+<a href="ptp-idtcm.yaml">ptp-idtcm.yaml</a>                                     16-Oct-2022 22:41                1355
+<a href="ptp-ines.txt">ptp-ines.txt</a>                                       10-Feb-2020 00:19                 846
+<a href="ptp-qoriq.txt">ptp-qoriq.txt</a>                                      25-Oct-2020 22:20                3530
+<a href="timestamper.txt">timestamper.txt</a>                                    10-Feb-2020 00:19                1234
+</pre><hr></body>
+</html>

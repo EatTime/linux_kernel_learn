@@ -1,0 +1,14 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/auxdisplay/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/auxdisplay/</h1><hr><pre><a href="../">../</a>
+<a href="arm%2Cversatile-lcd.yaml">arm,versatile-lcd.yaml</a>                             12-Sep-2021 23:34                 808
+<a href="arm-charlcd.txt">arm-charlcd.txt</a>                                    04-Mar-2018 23:03                 533
+<a href="hit%2Chd44780.txt">hit,hd44780.txt</a>                                    21-Jul-2020 14:32                1870
+<a href="hit%2Chd44780.yaml">hit,hd44780.yaml</a>                                   12-Sep-2021 23:34                3630
+<a href="holtek%2Cht16k33.yaml">holtek,ht16k33.yaml</a>                                14-Nov-2021 22:02                2917
+<a href="img%2Cascii-lcd.yaml">img,ascii-lcd.yaml</a>                                 12-Sep-2021 23:34                 972
+<a href="img-ascii-lcd.txt">img-ascii-lcd.txt</a>                                  12-Apr-2017 19:37                 624
+<a href="modtronix%2Clcd2s.yaml">modtronix,lcd2s.yaml</a>                               27-Dec-2020 23:43                1346
+</pre><hr></body>
+</html>

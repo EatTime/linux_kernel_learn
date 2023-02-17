@@ -1,0 +1,14 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/serio/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/serio/</h1><hr><pre><a href="../">../</a>
+<a href="allwinner%2Csun4i-a10-ps2.yaml">allwinner,sun4i-a10-ps2.yaml</a>                       16-Oct-2022 22:41                1077
+<a href="allwinner%2Csun4i-ps2.txt">allwinner,sun4i-ps2.txt</a>                            11-Dec-2017 02:00                 732
+<a href="altera_ps2.txt">altera_ps2.txt</a>                                     12-Apr-2017 19:37                 143
+<a href="arm%2Cpl050.yaml">arm,pl050.yaml</a>                                     06-Jun-2022 00:23                1411
+<a href="olpc%2Cap-sp.txt">olpc,ap-sp.txt</a>                                     03-Feb-2019 21:51                 273
+<a href="ps2-gpio.txt">ps2-gpio.txt</a>                                       16-Sep-2017 23:22                 632
+<a href="ps2-gpio.yaml">ps2-gpio.yaml</a>                                      25-Dec-2022 21:49                1744
+<a href="snps-arc_ps2.txt">snps-arc_ps2.txt</a>                                   12-Apr-2017 19:37                 407
+</pre><hr></body>
+</html>

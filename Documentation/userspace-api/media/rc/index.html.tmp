@@ -1,0 +1,33 @@
+<html>
+<head><title>Index of /doc/Documentation/userspace-api/media/rc/</title></head>
+<body>
+<h1>Index of /doc/Documentation/userspace-api/media/rc/</h1><hr><pre><a href="../">../</a>
+<a href="keytable.c.rst">keytable.c.rst</a>                                     27-Dec-2020 23:43                4458
+<a href="lirc-dev-intro.rst">lirc-dev-intro.rst</a>                                 03-Apr-2022 21:43                6603
+<a href="lirc-dev.rst">lirc-dev.rst</a>                                       27-Dec-2020 23:43                 213
+<a href="lirc-func.rst">lirc-func.rst</a>                                      23-Jan-2022 08:18                 545
+<a href="lirc-get-features.rst">lirc-get-features.rst</a>                              03-Apr-2022 21:43                4228
+<a href="lirc-get-rec-mode.rst">lirc-get-rec-mode.rst</a>                              27-Dec-2020 23:43                1290
+<a href="lirc-get-rec-resolution.rst">lirc-get-rec-resolution.rst</a>                        27-Dec-2020 23:43                1131
+<a href="lirc-get-send-mode.rst">lirc-get-send-mode.rst</a>                             27-Dec-2020 23:43                1351
+<a href="lirc-get-timeout.rst">lirc-get-timeout.rst</a>                               27-Dec-2020 23:43                1435
+<a href="lirc-header.rst">lirc-header.rst</a>                                    27-Dec-2020 23:43                 184
+<a href="lirc-read.rst">lirc-read.rst</a>                                      27-Dec-2020 23:43                1804
+<a href="lirc-set-measure-carrier-mode.rst">lirc-set-measure-carrier-mode.rst</a>                  27-Dec-2020 23:43                1036
+<a href="lirc-set-rec-carrier-range.rst">lirc-set-rec-carrier-range.rst</a>                     27-Dec-2020 23:43                1149
+<a href="lirc-set-rec-carrier.rst">lirc-set-rec-carrier.rst</a>                           27-Dec-2020 23:43                 994
+<a href="lirc-set-rec-timeout-reports.rst">lirc-set-rec-timeout-reports.rst</a>                   27-Dec-2020 23:43                1071
+<a href="lirc-set-rec-timeout.rst">lirc-set-rec-timeout.rst</a>                           27-Dec-2020 23:43                1349
+<a href="lirc-set-send-carrier.rst">lirc-set-send-carrier.rst</a>                          27-Dec-2020 23:43                 832
+<a href="lirc-set-send-duty-cycle.rst">lirc-set-send-duty-cycle.rst</a>                       27-Dec-2020 23:43                1108
+<a href="lirc-set-transmitter-mask.rst">lirc-set-transmitter-mask.rst</a>                      27-Dec-2020 23:43                1376
+<a href="lirc-set-wideband-receiver.rst">lirc-set-wideband-receiver.rst</a>                     27-Dec-2020 23:43                1509
+<a href="lirc-write.rst">lirc-write.rst</a>                                     27-Dec-2020 23:43                2252
+<a href="rc-intro.rst">rc-intro.rst</a>                                       27-Dec-2020 23:43                 925
+<a href="rc-protos.rst">rc-protos.rst</a>                                      27-Dec-2020 23:43               10198
+<a href="rc-sysfs-nodes.rst">rc-sysfs-nodes.rst</a>                                 27-Dec-2020 23:43                4325
+<a href="rc-table-change.rst">rc-table-change.rst</a>                                27-Dec-2020 23:43                 482
+<a href="rc-tables.rst">rc-tables.rst</a>                                      09-May-2021 21:22               11007
+<a href="remote_controllers.rst">remote_controllers.rst</a>                             27-Dec-2020 23:43                 850
+</pre><hr></body>
+</html>

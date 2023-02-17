@@ -1,0 +1,22 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/cpufreq/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/cpufreq/</h1><hr><pre><a href="../">../</a>
+<a href="apple%2Ccluster-cpufreq.yaml">apple,cluster-cpufreq.yaml</a>                         25-Dec-2022 21:49                3008
+<a href="arm_big_little_dt.txt">arm_big_little_dt.txt</a>                              12-Apr-2017 19:37                1442
+<a href="brcm%2Cstb-avs-cpu-freq.txt">brcm,stb-avs-cpu-freq.txt</a>                          12-Jun-2022 23:22                2524
+<a href="cpufreq-dt.txt">cpufreq-dt.txt</a>                                     12-Sep-2021 23:34                1417
+<a href="cpufreq-exynos5440.txt">cpufreq-exynos5440.txt</a>                             12-Apr-2017 19:37                 754
+<a href="cpufreq-mediatek-hw.yaml">cpufreq-mediatek-hw.yaml</a>                           25-Dec-2022 21:49                1700
+<a href="cpufreq-mediatek.txt">cpufreq-mediatek.txt</a>                               06-Jun-2022 00:23                6037
+<a href="cpufreq-qcom-hw.txt">cpufreq-qcom-hw.txt</a>                                25-Oct-2020 22:20                3985
+<a href="cpufreq-qcom-hw.yaml">cpufreq-qcom-hw.yaml</a>                               15-Jan-2023 15:30                6039
+<a href="cpufreq-spear.txt">cpufreq-spear.txt</a>                                  12-Apr-2017 19:37                 750
+<a href="cpufreq-st.txt">cpufreq-st.txt</a>                                     12-Sep-2021 23:34                2402
+<a href="imx-cpufreq-dt.txt">imx-cpufreq-dt.txt</a>                                 21-Jul-2019 21:11                 927
+<a href="nvidia%2Ctegra124-cpufreq.txt">nvidia,tegra124-cpufreq.txt</a>                        17-Mar-2019 21:25                1085
+<a href="nvidia%2Ctegra20-cpufreq.txt">nvidia,tegra20-cpufreq.txt</a>                         12-Sep-2021 23:34                1312
+<a href="qcom-cpufreq-nvmem.yaml">qcom-cpufreq-nvmem.yaml</a>                            25-Dec-2022 21:49                5010
+<a href="ti-cpufreq.txt">ti-cpufreq.txt</a>                                     08-Dec-2019 23:13                3544
+</pre><hr></body>
+</html>

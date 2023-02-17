@@ -1,0 +1,15 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/soc/fsl/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/soc/fsl/</h1><hr><pre><a href="../">../</a>
+<a href="cpm_qe/">cpm_qe/</a>                                            30-Sep-2019 17:47                   -
+<a href="bman-portals.txt">bman-portals.txt</a>                                   12-Apr-2017 19:37                1390
+<a href="bman.txt">bman.txt</a>                                           27-Nov-2017 00:06                3540
+<a href="fsl%2Clayerscape-dcfg.yaml">fsl,layerscape-dcfg.yaml</a>                           06-Jun-2022 00:23                1469
+<a href="fsl%2Clayerscape-scfg.yaml">fsl,layerscape-scfg.yaml</a>                           06-Jun-2022 00:23                1194
+<a href="guts.txt">guts.txt</a>                                           12-Apr-2017 19:37                1343
+<a href="qman-portals.txt">qman-portals.txt</a>                                   12-Apr-2017 19:37                3134
+<a href="qman.txt">qman.txt</a>                                           27-Nov-2017 00:06                4996
+<a href="rcpm.txt">rcpm.txt</a>                                           08-Dec-2019 23:13                2502
+</pre><hr></body>
+</html>

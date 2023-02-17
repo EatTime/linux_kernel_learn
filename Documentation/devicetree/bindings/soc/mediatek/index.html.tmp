@@ -1,0 +1,14 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/soc/mediatek/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/soc/mediatek/</h1><hr><pre><a href="../">../</a>
+<a href="devapc.yaml">devapc.yaml</a>                                        14-Aug-2022 23:08                1519
+<a href="mediatek%2Cccorr.yaml">mediatek,ccorr.yaml</a>                                16-Oct-2022 22:41                1889
+<a href="mediatek%2Cmt7986-wo-ccif.yaml">mediatek,mt7986-wo-ccif.yaml</a>                       25-Dec-2022 21:49                1230
+<a href="mediatek%2Cmutex.yaml">mediatek,mutex.yaml</a>                                16-Oct-2022 22:41                3161
+<a href="mediatek%2Cwdma.yaml">mediatek,wdma.yaml</a>                                 16-Oct-2022 22:41                2209
+<a href="mtk-svs.yaml">mtk-svs.yaml</a>                                       25-Dec-2022 21:49                2212
+<a href="pwrap.txt">pwrap.txt</a>                                          25-Dec-2022 21:49                2891
+<a href="scpsys.txt">scpsys.txt</a>                                         10-Feb-2020 00:19                3052
+</pre><hr></body>
+</html>

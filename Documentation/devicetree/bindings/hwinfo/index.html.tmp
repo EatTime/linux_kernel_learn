@@ -1,0 +1,11 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/hwinfo/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/hwinfo/</h1><hr><pre><a href="../">../</a>
+<a href="loongson%2Cls2k-chipid.yaml">loongson,ls2k-chipid.yaml</a>                          25-Dec-2022 21:49                 790
+<a href="renesas%2Cprr.yaml">renesas,prr.yaml</a>                                   14-Aug-2022 23:08                 824
+<a href="samsung%2Cexynos-chipid.yaml">samsung,exynos-chipid.yaml</a>                         14-Aug-2022 23:08                 932
+<a href="samsung%2Cs5pv210-chipid.yaml">samsung,s5pv210-chipid.yaml</a>                        14-Aug-2022 23:08                 558
+<a href="ti%2Ck3-socinfo.yaml">ti,k3-socinfo.yaml</a>                                 14-Aug-2022 23:08                 846
+</pre><hr></body>
+</html>

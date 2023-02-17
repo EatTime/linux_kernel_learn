@@ -1,0 +1,14 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/arm/amlogic/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/arm/amlogic/</h1><hr><pre><a href="../">../</a>
+<a href="amlogic%2Cmeson-gx-ao-secure.txt">amlogic,meson-gx-ao-secure.txt</a>                     21-Jul-2019 21:11                 797
+<a href="amlogic%2Cmeson-gx-ao-secure.yaml">amlogic,meson-gx-ao-secure.yaml</a>                    18-Sep-2022 20:47                1242
+<a href="amlogic%2Cmeson-mx-secbus2.yaml">amlogic,meson-mx-secbus2.yaml</a>                      01-Mar-2021 00:09                1150
+<a href="analog-top.txt">analog-top.txt</a>                                     27-Nov-2017 00:06                 578
+<a href="assist.txt">assist.txt</a>                                         27-Nov-2017 00:06                 457
+<a href="bootrom.txt">bootrom.txt</a>                                        27-Nov-2017 00:06                 453
+<a href="pmu.txt">pmu.txt</a>                                            27-Nov-2017 00:06                 528
+<a href="smp-sram.txt">smp-sram.txt</a>                                       27-Nov-2017 00:06                 875
+</pre><hr></body>
+</html>

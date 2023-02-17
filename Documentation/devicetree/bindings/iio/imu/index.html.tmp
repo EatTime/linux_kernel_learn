@@ -1,0 +1,19 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/iio/imu/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/iio/imu/</h1><hr><pre><a href="../">../</a>
+<a href="adi%2Cadis16460.yaml">adi,adis16460.yaml</a>                                 16-Oct-2022 22:41                1163
+<a href="adi%2Cadis16475.yaml">adi,adis16475.yaml</a>                                 25-Dec-2022 21:49                2836
+<a href="adi%2Cadis16480.txt">adi,adis16480.txt</a>                                  10-Feb-2020 00:19                2928
+<a href="adi%2Cadis16480.yaml">adi,adis16480.yaml</a>                                 16-Oct-2022 22:41                3422
+<a href="bmi160.txt">bmi160.txt</a>                                         21-Jul-2020 14:32                1058
+<a href="bosch%2Cbmi160.yaml">bosch,bmi160.yaml</a>                                  16-Oct-2022 22:41                2332
+<a href="bosch%2Cbno055.yaml">bosch,bno055.yaml</a>                                  16-Oct-2022 22:41                1147
+<a href="inv_mpu6050.txt">inv_mpu6050.txt</a>                                    12-Apr-2020 19:42                2027
+<a href="invensense%2Cicm42600.yaml">invensense,icm42600.yaml</a>                           25-Dec-2022 21:49                2533
+<a href="invensense%2Cmpu6050.yaml">invensense,mpu6050.yaml</a>                            16-Oct-2022 22:41                2830
+<a href="nxp%2Cfxos8700.yaml">nxp,fxos8700.yaml</a>                                  16-Oct-2022 22:41                1760
+<a href="st%2Clsm6dsx.yaml">st,lsm6dsx.yaml</a>                                    25-Dec-2022 21:49                2761
+<a href="st_lsm6dsx.txt">st_lsm6dsx.txt</a>                                     08-Dec-2019 23:13                1579
+</pre><hr></body>
+</html>

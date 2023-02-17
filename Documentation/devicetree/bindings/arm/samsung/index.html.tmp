@@ -1,0 +1,17 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/arm/samsung/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/arm/samsung/</h1><hr><pre><a href="../">../</a>
+<a href="exynos-adc.txt">exynos-adc.txt</a>                                     11-Feb-2018 23:13                3302
+<a href="exynos-chipid.txt">exynos-chipid.txt</a>                                  12-Apr-2017 19:37                 276
+<a href="exynos-chipid.yaml">exynos-chipid.yaml</a>                                 14-Nov-2021 22:02                 929
+<a href="pmu.txt">pmu.txt</a>                                            26-Aug-2018 21:24                2344
+<a href="pmu.yaml">pmu.yaml</a>                                           25-Oct-2020 22:20                3020
+<a href="samsung-boards.txt">samsung-boards.txt</a>                                 26-Aug-2018 21:24                4034
+<a href="samsung-boards.yaml">samsung-boards.yaml</a>                                03-Apr-2022 21:43                8201
+<a href="samsung-secure-firmware.yaml">samsung-secure-firmware.yaml</a>                       12-Apr-2020 19:42                 656
+<a href="samsung-soc.yaml">samsung-soc.yaml</a>                                   14-Aug-2022 23:08                1112
+<a href="sysreg.txt">sysreg.txt</a>                                         12-Apr-2017 19:37                 571
+<a href="sysreg.yaml">sysreg.yaml</a>                                        08-Dec-2019 23:13                 968
+</pre><hr></body>
+</html>

@@ -1,0 +1,18 @@
+<html>
+<head><title>Index of /doc/Documentation/sound/designs/</title></head>
+<body>
+<h1>Index of /doc/Documentation/sound/designs/</h1><hr><pre><a href="../">../</a>
+<a href="channel-mapping-api.rst">channel-mapping-api.rst</a>                            12-Apr-2017 19:37                6015
+<a href="compress-offload.rst">compress-offload.rst</a>                               16-Aug-2020 20:26               15334
+<a href="control-names.rst">control-names.rst</a>                                  03-Apr-2022 21:43                3873
+<a href="index.rst">index.rst</a>                                          01-Mar-2021 00:09                 266
+<a href="jack-controls.rst">jack-controls.rst</a>                                  12-Apr-2017 19:37                1565
+<a href="jack-injection.rst">jack-injection.rst</a>                                 01-Mar-2021 00:09                4479
+<a href="oss-emulation.rst">oss-emulation.rst</a>                                  12-Apr-2017 19:37               10759
+<a href="powersave.rst">powersave.rst</a>                                      12-Apr-2017 19:37                2039
+<a href="procfile.rst">procfile.rst</a>                                       16-Aug-2020 20:26                6746
+<a href="seq-oss.rst">seq-oss.rst</a>                                        12-Apr-2017 19:37               13153
+<a href="timestamping.rst">timestamping.rst</a>                                   07-Sep-2020 00:22               10975
+<a href="tracepoints.rst">tracepoints.rst</a>                                    25-Oct-2020 22:20                7967
+</pre><hr></body>
+</html>

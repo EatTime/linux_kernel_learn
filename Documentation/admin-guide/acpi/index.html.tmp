@@ -1,0 +1,12 @@
+<html>
+<head><title>Index of /doc/Documentation/admin-guide/acpi/</title></head>
+<body>
+<h1>Index of /doc/Documentation/admin-guide/acpi/</h1><hr><pre><a href="../">../</a>
+<a href="cppc_sysfs.rst">cppc_sysfs.rst</a>                                     23-Jan-2022 08:18                3008
+<a href="dsdt-override.rst">dsdt-override.rst</a>                                  14-May-2019 17:46                 333
+<a href="fan_performance_states.rst">fan_performance_states.rst</a>                         03-Apr-2022 21:43                3403
+<a href="index.rst">index.rst</a>                                          23-Oct-2022 22:39                 247
+<a href="initrd_table_override.rst">initrd_table_override.rst</a>                          21-Jul-2020 14:49                4412
+<a href="ssdt-overlays.rst">ssdt-overlays.rst</a>                                  12-Sep-2021 23:34                6805
+</pre><hr></body>
+</html>

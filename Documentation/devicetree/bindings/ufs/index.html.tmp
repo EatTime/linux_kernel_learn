@@ -1,0 +1,21 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/ufs/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/ufs/</h1><hr><pre><a href="../">../</a>
+<a href="cdns%2Cufshc.txt">cdns,ufshc.txt</a>                                     14-May-2019 17:46                1199
+<a href="cdns%2Cufshc.yaml">cdns,ufshc.yaml</a>                                    25-Dec-2022 21:49                1402
+<a href="hisilicon%2Cufs.yaml">hisilicon,ufs.yaml</a>                                 03-Apr-2022 21:43                1972
+<a href="mediatek%2Cufs.yaml">mediatek,ufs.yaml</a>                                  03-Apr-2022 21:43                1273
+<a href="qcom%2Cufs.yaml">qcom,ufs.yaml</a>                                      14-Aug-2022 23:08                6212
+<a href="renesas%2Cufs.yaml">renesas,ufs.yaml</a>                                   14-Aug-2022 23:08                1311
+<a href="samsung%2Cexynos-ufs.yaml">samsung,exynos-ufs.yaml</a>                            16-Oct-2022 22:41                2274
+<a href="snps%2Ctc-dwc-g210.yaml">snps,tc-dwc-g210.yaml</a>                              03-Apr-2022 21:43                1030
+<a href="tc-dwc-g210-pltfrm.txt">tc-dwc-g210-pltfrm.txt</a>                             12-Apr-2017 19:37                 845
+<a href="ti%2Cj721e-ufs.yaml">ti,j721e-ufs.yaml</a>                                  03-Apr-2022 21:43                2097
+<a href="ufs-common.yaml">ufs-common.yaml</a>                                    03-Apr-2022 21:43                2203
+<a href="ufs-hisi.txt">ufs-hisi.txt</a>                                       17-Mar-2019 21:25                1853
+<a href="ufs-mediatek.txt">ufs-mediatek.txt</a>                                   25-Oct-2020 22:20                1814
+<a href="ufs-qcom.txt">ufs-qcom.txt</a>                                       14-May-2019 17:46                2391
+<a href="ufshcd-pltfrm.txt">ufshcd-pltfrm.txt</a>                                  23-Jan-2022 08:18                4314
+</pre><hr></body>
+</html>

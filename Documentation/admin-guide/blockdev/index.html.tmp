@@ -1,0 +1,13 @@
+<html>
+<head><title>Index of /doc/Documentation/admin-guide/blockdev/</title></head>
+<body>
+<h1>Index of /doc/Documentation/admin-guide/blockdev/</h1><hr><pre><a href="../">../</a>
+<a href="drbd/">drbd/</a>                                              12-Dec-2021 23:11                   -
+<a href="floppy.rst">floppy.rst</a>                                         16-Aug-2020 20:26                8621
+<a href="index.rst">index.rst</a>                                          06-Jun-2022 00:23                 171
+<a href="nbd.rst">nbd.rst</a>                                            21-Jul-2019 21:11                1058
+<a href="paride.rst">paride.rst</a>                                         27-Dec-2020 23:43               17926
+<a href="ramdisk.rst">ramdisk.rst</a>                                        25-Oct-2020 22:20                5065
+<a href="zram.rst">zram.rst</a>                                           25-Dec-2022 21:49               19286
+</pre><hr></body>
+</html>

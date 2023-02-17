@@ -1,0 +1,34 @@
+<html>
+<head><title>Index of /doc/Documentation/translations/zh_CN/process/</title></head>
+<body>
+<h1>Index of /doc/Documentation/translations/zh_CN/process/</h1><hr><pre><a href="../">../</a>
+<a href="1.Intro.rst">1.Intro.rst</a>                                        09-May-2021 21:22               12268
+<a href="2.Process.rst">2.Process.rst</a>                                      18-Jul-2021 21:17               21044
+<a href="3.Early-stage.rst">3.Early-stage.rst</a>                                  09-May-2021 21:22                9397
+<a href="4.Coding.rst">4.Coding.rst</a>                                       09-May-2021 21:22               18219
+<a href="5.Posting.rst">5.Posting.rst</a>                                      14-Aug-2022 23:08               14477
+<a href="6.Followthrough.rst">6.Followthrough.rst</a>                                09-May-2021 21:22               10644
+<a href="7.AdvancedTopics.rst">7.AdvancedTopics.rst</a>                               09-May-2021 21:22                8726
+<a href="8.Conclusion.rst">8.Conclusion.rst</a>                                   14-Aug-2022 23:08                3015
+<a href="code-of-conduct-interpretation.rst">code-of-conduct-interpretation.rst</a>                 14-May-2019 17:46                6211
+<a href="code-of-conduct.rst">code-of-conduct.rst</a>                                14-May-2019 17:46                2622
+<a href="coding-style.rst">coding-style.rst</a>                                   16-Oct-2022 22:41               40976
+<a href="development-process.rst">development-process.rst</a>                            14-May-2019 17:46                 808
+<a href="email-clients.rst">email-clients.rst</a>                                  16-Oct-2022 22:41               12070
+<a href="embargoed-hardware-issues.rst">embargoed-hardware-issues.rst</a>                      14-Aug-2022 23:08               10616
+<a href="howto.rst">howto.rst</a>                                          06-Nov-2022 23:13               25022
+<a href="index.rst">index.rst</a>                                          16-Oct-2022 22:41                1359
+<a href="kernel-driver-statement.rst">kernel-driver-statement.rst</a>                        10-Feb-2020 00:19                4242
+<a href="kernel-enforcement-statement.rst">kernel-enforcement-statement.rst</a>                   10-Feb-2020 00:19                4903
+<a href="license-rules.rst">license-rules.rst</a>                                  14-May-2019 17:46               14876
+<a href="magic-number.rst">magic-number.rst</a>                                   16-Oct-2022 22:41                4072
+<a href="management-style.rst">management-style.rst</a>                               21-Nov-2021 21:58               12058
+<a href="programming-language.rst">programming-language.rst</a>                           03-Apr-2022 21:43                2216
+<a href="stable-api-nonsense.rst">stable-api-nonsense.rst</a>                            14-May-2019 17:46                9153
+<a href="stable-kernel-rules.rst">stable-kernel-rules.rst</a>                            14-May-2019 17:46                3515
+<a href="submit-checklist.rst">submit-checklist.rst</a>                               16-Oct-2022 22:41                5081
+<a href="submitting-drivers.rst">submitting-drivers.rst</a>                             16-Aug-2020 20:26                7259
+<a href="submitting-patches.rst">submitting-patches.rst</a>                             16-Oct-2022 22:41               33155
+<a href="volatile-considered-harmful.rst">volatile-considered-harmful.rst</a>                    16-Aug-2020 20:26                6155
+</pre><hr></body>
+</html>

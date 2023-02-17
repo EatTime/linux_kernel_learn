@@ -1,0 +1,39 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/iio/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/iio/</h1><hr><pre><a href="../">../</a>
+<a href="accel/">accel/</a>                                             25-Dec-2022 21:49                   -
+<a href="adc/">adc/</a>                                               25-Dec-2022 21:49                   -
+<a href="addac/">addac/</a>                                             25-Dec-2022 21:49                   -
+<a href="afe/">afe/</a>                                               03-Apr-2022 21:43                   -
+<a href="amplifiers/">amplifiers/</a>                                        16-Oct-2022 22:41                   -
+<a href="cdc/">cdc/</a>                                               11-Jul-2021 22:21                   -
+<a href="chemical/">chemical/</a>                                          14-Nov-2021 22:02                   -
+<a href="counter/">counter/</a>                                           16-Sep-2017 23:22                   -
+<a href="dac/">dac/</a>                                               25-Dec-2022 21:49                   -
+<a href="filter/">filter/</a>                                            23-Jan-2022 08:18                   -
+<a href="frequency/">frequency/</a>                                         25-Dec-2022 21:49                   -
+<a href="gyroscope/">gyroscope/</a>                                         25-Dec-2022 21:49                   -
+<a href="health/">health/</a>                                            16-Oct-2022 22:41                   -
+<a href="humidity/">humidity/</a>                                          27-Dec-2020 23:43                   -
+<a href="impedance-analyzer/">impedance-analyzer/</a>                                27-Dec-2020 23:43                   -
+<a href="imu/">imu/</a>                                               25-Dec-2022 21:49                   -
+<a href="light/">light/</a>                                             16-Oct-2022 22:41                   -
+<a href="magnetometer/">magnetometer/</a>                                      23-Jan-2022 08:18                   -
+<a href="multiplexer/">multiplexer/</a>                                       25-Dec-2022 21:49                   -
+<a href="potentiometer/">potentiometer/</a>                                     16-Oct-2022 22:41                   -
+<a href="potentiostat/">potentiostat/</a>                                      27-Dec-2020 23:43                   -
+<a href="pressure/">pressure/</a>                                          25-Dec-2022 21:49                   -
+<a href="proximity/">proximity/</a>                                         25-Dec-2022 21:49                   -
+<a href="resolver/">resolver/</a>                                          25-Dec-2022 21:49                   -
+<a href="temperature/">temperature/</a>                                       25-Dec-2022 21:49                   -
+<a href="timer/">timer/</a>                                             16-Sep-2017 23:22                   -
+<a href="common.yaml">common.yaml</a>                                        25-Oct-2020 22:20                1285
+<a href="iio-bindings.txt">iio-bindings.txt</a>                                   16-Aug-2020 20:26                2734
+<a href="mount-matrix.txt">mount-matrix.txt</a>                                   30-Sep-2019 17:47                7618
+<a href="samsung%2Csensorhub-rinato.yaml">samsung,sensorhub-rinato.yaml</a>                      16-Oct-2022 22:41                1519
+<a href="sensorhub.txt">sensorhub.txt</a>                                      26-Aug-2018 21:24                 738
+<a href="st%2Cst-sensors.yaml">st,st-sensors.yaml</a>                                 16-Oct-2022 22:41                5485
+<a href="st-sensors.txt">st-sensors.txt</a>                                     21-Jul-2020 14:49                2103
+</pre><hr></body>
+</html>

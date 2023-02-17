@@ -1,0 +1,17 @@
+<html>
+<head><title>Index of /doc/Documentation/driver-api/driver-model/</title></head>
+<body>
+<h1>Index of /doc/Documentation/driver-api/driver-model/</h1><hr><pre><a href="../">../</a>
+<a href="binding.rst">binding.rst</a>                                        21-Jul-2019 21:11                3556
+<a href="bus.rst">bus.rst</a>                                            21-Jul-2019 21:11                4125
+<a href="class.rst">class.rst</a>                                          21-Jul-2019 21:11                4528
+<a href="design-patterns.rst">design-patterns.rst</a>                                21-Jul-2019 21:11                3199
+<a href="device.rst">device.rst</a>                                         09-May-2021 21:22                3658
+<a href="devres.rst">devres.rst</a>                                         25-Dec-2022 21:49               12372
+<a href="driver.rst">driver.rst</a>                                         16-Aug-2020 20:26               10925
+<a href="index.rst">index.rst</a>                                          09-May-2021 21:22                 249
+<a href="overview.rst">overview.rst</a>                                       21-Jul-2020 14:49                4839
+<a href="platform.rst">platform.rst</a>                                       16-Aug-2020 20:26               11176
+<a href="porting.rst">porting.rst</a>                                        21-Jul-2019 21:11               13463
+</pre><hr></body>
+</html>

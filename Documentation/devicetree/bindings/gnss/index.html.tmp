@@ -1,0 +1,15 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/gnss/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/gnss/</h1><hr><pre><a href="../">../</a>
+<a href="brcm%2Cbcm4751.yaml">brcm,bcm4751.yaml</a>                                  16-Oct-2022 22:41                1761
+<a href="gnss-common.yaml">gnss-common.yaml</a>                                   03-Apr-2022 21:43                1620
+<a href="gnss.txt">gnss.txt</a>                                           12-Apr-2020 19:42                 856
+<a href="mediatek.txt">mediatek.txt</a>                                       17-Mar-2019 21:25                 848
+<a href="mediatek.yaml">mediatek.yaml</a>                                      16-Oct-2022 22:41                1349
+<a href="sirfstar.txt">sirfstar.txt</a>                                       17-Mar-2019 21:25                1065
+<a href="sirfstar.yaml">sirfstar.yaml</a>                                      16-Oct-2022 22:41                2035
+<a href="u-blox%2Cneo-6m.yaml">u-blox,neo-6m.yaml</a>                                 16-Oct-2022 22:41                1246
+<a href="u-blox.txt">u-blox.txt</a>                                         14-May-2019 17:46                 958
+</pre><hr></body>
+</html>

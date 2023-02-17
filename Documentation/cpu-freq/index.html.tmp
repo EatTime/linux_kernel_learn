@@ -1,0 +1,21 @@
+<html>
+<head><title>Index of /doc/Documentation/cpu-freq/</title></head>
+<body>
+<h1>Index of /doc/Documentation/cpu-freq/</h1><hr><pre><a href="../">../</a>
+<a href="amd-powernow.txt">amd-powernow.txt</a>                                   12-Apr-2017 19:37                1673
+<a href="boost.txt">boost.txt</a>                                          12-Apr-2017 19:37                4295
+<a href="core.rst">core.rst</a>                                           05-Dec-2021 22:10                3725
+<a href="core.txt">core.txt</a>                                           30-Sep-2019 17:47                3724
+<a href="cpu-drivers.rst">cpu-drivers.rst</a>                                    27-Feb-2022 22:37               10997
+<a href="cpu-drivers.txt">cpu-drivers.txt</a>                                    16-Apr-2018 01:33               10627
+<a href="cpufreq-nforce2.txt">cpufreq-nforce2.txt</a>                                12-Apr-2017 19:37                 597
+<a href="cpufreq-stats.rst">cpufreq-stats.rst</a>                                  12-Apr-2020 19:42                4598
+<a href="cpufreq-stats.txt">cpufreq-stats.txt</a>                                  18-Nov-2018 21:40                5054
+<a href="governors.txt">governors.txt</a>                                      12-Apr-2017 19:37               11656
+<a href="index.rst">index.rst</a>                                          25-Dec-2022 21:49                1010
+<a href="index.txt">index.txt</a>                                          01-Oct-2017 22:07                1385
+<a href="intel-pstate.txt">intel-pstate.txt</a>                                   12-Apr-2017 19:37               13336
+<a href="pcc-cpufreq.txt">pcc-cpufreq.txt</a>                                    12-Apr-2017 19:37                8484
+<a href="user-guide.txt">user-guide.txt</a>                                     12-Apr-2017 19:37                6582
+</pre><hr></body>
+</html>

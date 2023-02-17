@@ -1,0 +1,43 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/arm/mediatek/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/arm/mediatek/</h1><hr><pre><a href="../">../</a>
+<a href="mediatek%2Capmixedsys.txt">mediatek,apmixedsys.txt</a>                            23-Jan-2022 08:18                1075
+<a href="mediatek%2Caudsys.txt">mediatek,audsys.txt</a>                                12-Sep-2021 23:34                1058
+<a href="mediatek%2Cbdpsys.txt">mediatek,bdpsys.txt</a>                                04-Nov-2018 23:45                 674
+<a href="mediatek%2Ccamsys.txt">mediatek,camsys.txt</a>                                21-Jul-2020 14:49                 647
+<a href="mediatek%2Cethsys.txt">mediatek,ethsys.txt</a>                                23-Jan-2022 08:18                 797
+<a href="mediatek%2Cg3dsys.txt">mediatek,g3dsys.txt</a>                                16-Jun-2018 23:08                 776
+<a href="mediatek%2Chifsys.txt">mediatek,hifsys.txt</a>                                04-Nov-2018 23:45                 713
+<a href="mediatek%2Cimgsys.txt">mediatek,imgsys.txt</a>                                25-Oct-2020 22:20                 909
+<a href="mediatek%2Cinfracfg.txt">mediatek,infracfg.txt</a>                              23-Jan-2022 08:18                1386
+<a href="mediatek%2Cinfracfg.yaml">mediatek,infracfg.yaml</a>                             16-Oct-2022 22:41                2177
+<a href="mediatek%2Cipesys.txt">mediatek,ipesys.txt</a>                                30-Sep-2019 17:47                 579
+<a href="mediatek%2Cipu.txt">mediatek,ipu.txt</a>                                   14-May-2019 17:46                1100
+<a href="mediatek%2Cjpgdecsys.txt">mediatek,jpgdecsys.txt</a>                             27-Nov-2017 00:06                 580
+<a href="mediatek%2Cmcucfg.txt">mediatek,mcucfg.txt</a>                                14-May-2019 17:46                 607
+<a href="mediatek%2Cmfgcfg.txt">mediatek,mfgcfg.txt</a>                                25-Oct-2020 22:20                 683
+<a href="mediatek%2Cmipi0a.txt">mediatek,mipi0a.txt</a>                                21-Jul-2020 14:49                 845
+<a href="mediatek%2Cmmsys.txt">mediatek,mmsys.txt</a>                                 09-May-2021 21:22                 962
+<a href="mediatek%2Cmmsys.yaml">mediatek,mmsys.yaml</a>                                25-Dec-2022 21:49                3203
+<a href="mediatek%2Cmt7622-pcie-mirror.yaml">mediatek,mt7622-pcie-mirror.yaml</a>                   06-Jun-2022 00:23                 899
+<a href="mediatek%2Cmt7622-wed.yaml">mediatek,mt7622-wed.yaml</a>                           25-Dec-2022 21:49                2611
+<a href="mediatek%2Cmt7986-wed-pcie.yaml">mediatek,mt7986-wed-pcie.yaml</a>                      16-Oct-2022 22:41                 899
+<a href="mediatek%2Cmt8186-clock.yaml">mediatek,mt8186-clock.yaml</a>                         06-Jun-2022 00:23                1379
+<a href="mediatek%2Cmt8186-sys-clock.yaml">mediatek,mt8186-sys-clock.yaml</a>                     14-Aug-2022 23:08                1468
+<a href="mediatek%2Cmt8192-clock.yaml">mediatek,mt8192-clock.yaml</a>                         14-Aug-2022 23:08                4800
+<a href="mediatek%2Cmt8192-sys-clock.yaml">mediatek,mt8192-sys-clock.yaml</a>                     14-Aug-2022 23:08                1522
+<a href="mediatek%2Cmt8195-clock.yaml">mediatek,mt8195-clock.yaml</a>                         14-Nov-2021 22:02                6542
+<a href="mediatek%2Cmt8195-sys-clock.yaml">mediatek,mt8195-sys-clock.yaml</a>                     14-Aug-2022 23:08                1852
+<a href="mediatek%2Cpciesys.txt">mediatek,pciesys.txt</a>                               07-Jan-2019 01:15                 655
+<a href="mediatek%2Cpericfg.txt">mediatek,pericfg.txt</a>                               21-Jul-2020 14:32                1128
+<a href="mediatek%2Cpericfg.yaml">mediatek,pericfg.yaml</a>                              16-Oct-2022 22:41                1751
+<a href="mediatek%2Csgmiisys.txt">mediatek,sgmiisys.txt</a>                              23-Jan-2022 08:18                 700
+<a href="mediatek%2Cssusbsys.txt">mediatek,ssusbsys.txt</a>                              07-Jan-2019 01:15                 663
+<a href="mediatek%2Ctopckgen.txt">mediatek,topckgen.txt</a>                              23-Jan-2022 08:18                1049
+<a href="mediatek%2Cvcodecsys.txt">mediatek,vcodecsys.txt</a>                             21-Jul-2020 14:49                 850
+<a href="mediatek%2Cvdecsys.txt">mediatek,vdecsys.txt</a>                               25-Oct-2020 22:20                 885
+<a href="mediatek%2Cvencltsys.txt">mediatek,vencltsys.txt</a>                             12-Apr-2017 19:37                 590
+<a href="mediatek%2Cvencsys.txt">mediatek,vencsys.txt</a>                               30-Sep-2019 17:47                 741
+</pre><hr></body>
+</html>

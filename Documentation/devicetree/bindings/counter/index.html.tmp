@@ -1,0 +1,12 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/counter/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/counter/</h1><hr><pre><a href="../">../</a>
+<a href="ftm-quaddec.txt">ftm-quaddec.txt</a>                                    14-May-2019 17:46                 472
+<a href="interrupt-counter.yaml">interrupt-counter.yaml</a>                             09-May-2021 21:22                1437
+<a href="stm32-lptimer-cnt.txt">stm32-lptimer-cnt.txt</a>                              14-May-2019 17:46                1021
+<a href="stm32-timer-cnt.txt">stm32-timer-cnt.txt</a>                                14-May-2019 17:46                 875
+<a href="ti%2Cam62-ecap-capture.yaml">ti,am62-ecap-capture.yaml</a>                          16-Oct-2022 22:41                1311
+<a href="ti-eqep.yaml">ti-eqep.yaml</a>                                       08-Dec-2019 23:13                 916
+</pre><hr></body>
+</html>

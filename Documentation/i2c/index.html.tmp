@@ -1,0 +1,47 @@
+<html>
+<head><title>Index of /doc/Documentation/i2c/</title></head>
+<body>
+<h1>Index of /doc/Documentation/i2c/</h1><hr><pre><a href="../">../</a>
+<a href="busses/">busses/</a>                                            11-Sep-2022 20:50                   -
+<a href="muxes/">muxes/</a>                                             30-Sep-2019 17:47                   -
+<a href="DMA-considerations">DMA-considerations</a>                                 02-Sep-2018 21:39                3649
+<a href="dev-interface">dev-interface</a>                                      29-Apr-2018 21:20                8606
+<a href="dev-interface.rst">dev-interface.rst</a>                                  25-Sep-2022 21:16                8986
+<a href="dma-considerations.rst">dma-considerations.rst</a>                             10-Feb-2020 00:19                3649
+<a href="fault-codes">fault-codes</a>                                        17-Mar-2019 21:25                5139
+<a href="fault-codes.rst">fault-codes.rst</a>                                    30-Sep-2019 17:47                5205
+<a href="functionality">functionality</a>                                      12-Apr-2017 19:37                6119
+<a href="functionality.rst">functionality.rst</a>                                  30-Sep-2019 17:47                6504
+<a href="gpio-fault-injection">gpio-fault-injection</a>                               17-Mar-2019 21:25                6147
+<a href="gpio-fault-injection.rst">gpio-fault-injection.rst</a>                           30-Sep-2019 17:47                6157
+<a href="i2c-protocol">i2c-protocol</a>                                       12-Apr-2017 19:37                3041
+<a href="i2c-protocol.rst">i2c-protocol.rst</a>                                   14-Aug-2022 23:08                3096
+<a href="i2c-stub">i2c-stub</a>                                           12-Apr-2017 19:37                2323
+<a href="i2c-stub.rst">i2c-stub.rst</a>                                       30-Sep-2019 17:47                2364
+<a href="i2c-sysfs.rst">i2c-sysfs.rst</a>                                      14-Aug-2022 23:08               15861
+<a href="i2c-topology">i2c-topology</a>                                       16-Sep-2017 23:22               15285
+<a href="i2c-topology.rst">i2c-topology.rst</a>                                   11-Sep-2022 20:50               16140
+<a href="i2c.svg">i2c.svg</a>                                            21-Jul-2020 14:32               56010
+<a href="i2c_bus.svg">i2c_bus.svg</a>                                        21-Jul-2020 14:49               56014
+<a href="index.rst">index.rst</a>                                          15-Aug-2021 23:47                 930
+<a href="instantiating-devices">instantiating-devices</a>                              21-Jul-2019 21:11                9778
+<a href="instantiating-devices.rst">instantiating-devices.rst</a>                          14-Aug-2022 23:08               10271
+<a href="old-module-parameters">old-module-parameters</a>                              12-Apr-2017 19:37                1899
+<a href="old-module-parameters.rst">old-module-parameters.rst</a>                          11-Jul-2021 22:21                2206
+<a href="slave-eeprom-backend">slave-eeprom-backend</a>                               12-Apr-2017 19:37                 476
+<a href="slave-eeprom-backend.rst">slave-eeprom-backend.rst</a>                           21-Jul-2020 14:49                1005
+<a href="slave-interface">slave-interface</a>                                    12-Apr-2017 19:37                7828
+<a href="slave-interface.rst">slave-interface.rst</a>                                16-Oct-2022 22:41                8172
+<a href="slave-testunit-backend.rst">slave-testunit-backend.rst</a>                         01-Mar-2021 00:09                3862
+<a href="smbus-protocol">smbus-protocol</a>                                     12-Apr-2017 19:37                9649
+<a href="smbus-protocol.rst">smbus-protocol.rst</a>                                 14-Aug-2022 23:08                9996
+<a href="summary">summary</a>                                            12-Apr-2017 19:37                1920
+<a href="summary.rst">summary.rst</a>                                        02-Jan-2022 22:26                2940
+<a href="ten-bit-addresses">ten-bit-addresses</a>                                  12-Apr-2017 19:37                1556
+<a href="ten-bit-addresses.rst">ten-bit-addresses.rst</a>                              30-Sep-2019 17:47                1624
+<a href="upgrading-clients">upgrading-clients</a>                                  21-Jul-2019 21:11                6990
+<a href="upgrading-clients.rst">upgrading-clients.rst</a>                              30-Sep-2019 17:47                7221
+<a href="writing-clients">writing-clients</a>                                    12-Apr-2017 19:37               15331
+<a href="writing-clients.rst">writing-clients.rst</a>                                16-Oct-2022 22:41               15584
+</pre><hr></body>
+</html>

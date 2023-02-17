@@ -1,0 +1,21 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/firmware/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/firmware/</h1><hr><pre><a href="../">../</a>
+<a href="meson/">meson/</a>                                             12-Apr-2017 19:37                   -
+<a href="xilinx/">xilinx/</a>                                            12-Sep-2021 23:34                   -
+<a href="arm%2Cscmi.yaml">arm,scmi.yaml</a>                                      25-Dec-2022 21:49               10134
+<a href="arm%2Cscpi.yaml">arm,scpi.yaml</a>                                      25-Dec-2022 21:49                7017
+<a href="coreboot.txt">coreboot.txt</a>                                       13-May-2017 20:33                1255
+<a href="cznic%2Cturris-mox-rwtm.txt">cznic,turris-mox-rwtm.txt</a>                          30-Sep-2019 17:47                 527
+<a href="fsl%2Cscu.yaml">fsl,scu.yaml</a>                                       16-Oct-2022 22:41                6543
+<a href="intel%2Cixp4xx-network-processing-engine.yaml">intel,ixp4xx-network-processing-engine.yaml</a>        23-Jan-2022 08:18                2971
+<a href="intel%2Cstratix10-svc.txt">intel,stratix10-svc.txt</a>                            21-Jul-2020 14:49                2056
+<a href="nvidia%2Ctegra186-bpmp.txt">nvidia,tegra186-bpmp.txt</a>                           08-Dec-2019 23:13                3539
+<a href="nvidia%2Ctegra186-bpmp.yaml">nvidia,tegra186-bpmp.yaml</a>                          23-Jan-2022 08:18                5750
+<a href="nvidia%2Ctegra210-bpmp.txt">nvidia,tegra210-bpmp.txt</a>                           17-Mar-2019 21:25                1336
+<a href="qcom%2Cscm.txt">qcom,scm.txt</a>                                       14-Aug-2022 23:08                1886
+<a href="qcom%2Cscm.yaml">qcom,scm.yaml</a>                                      25-Dec-2022 21:49                3508
+<a href="qemu%2Cfw-cfg-mmio.yaml">qemu,fw-cfg-mmio.yaml</a>                              25-Dec-2022 21:49                1406
+</pre><hr></body>
+</html>

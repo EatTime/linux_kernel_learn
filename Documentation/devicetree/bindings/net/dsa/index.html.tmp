@@ -1,0 +1,33 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/net/dsa/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/net/dsa/</h1><hr><pre><a href="../">../</a>
+<a href="ar9331.txt">ar9331.txt</a>                                         16-Oct-2022 22:41                2999
+<a href="arrow%2Cxrs700x.yaml">arrow,xrs700x.yaml</a>                                 25-Dec-2022 21:49                1836
+<a href="b53.txt">b53.txt</a>                                            25-Oct-2020 22:20                3693
+<a href="brcm%2Cb53.yaml">brcm,b53.yaml</a>                                      16-Oct-2022 22:41                7383
+<a href="brcm%2Csf2.yaml">brcm,sf2.yaml</a>                                      11-Jul-2021 22:21                3932
+<a href="dsa-port.yaml">dsa-port.yaml</a>                                      25-Dec-2022 21:49                2158
+<a href="dsa.txt">dsa.txt</a>                                            07-Sep-2020 00:22                 185
+<a href="dsa.yaml">dsa.yaml</a>                                           25-Dec-2022 21:49                1521
+<a href="hirschmann%2Chellcreek.yaml">hirschmann,hellcreek.yaml</a>                          25-Dec-2022 21:49                2943
+<a href="ksz.txt">ksz.txt</a>                                            30-Sep-2019 17:47                2263
+<a href="lan9303.txt">lan9303.txt</a>                                        16-Oct-2022 22:41                1947
+<a href="lantiq-gswip.txt">lantiq-gswip.txt</a>                                   16-Oct-2022 22:41                2975
+<a href="marvell.txt">marvell.txt</a>                                        11-Oct-2021 00:06                3248
+<a href="mediatek%2Cmt7530.yaml">mediatek,mt7530.yaml</a>                               16-Oct-2022 22:41               20821
+<a href="microchip%2Cksz.yaml">microchip,ksz.yaml</a>                                 16-Oct-2022 22:41                4006
+<a href="microchip%2Clan937x.yaml">microchip,lan937x.yaml</a>                             25-Dec-2022 21:49                5870
+<a href="mscc%2Cocelot.yaml">mscc,ocelot.yaml</a>                                   25-Dec-2022 21:49                7517
+<a href="mt7530.txt">mt7530.txt</a>                                         11-Jul-2021 22:21                7358
+<a href="nxp%2Csja1105.yaml">nxp,sja1105.yaml</a>                                   25-Dec-2022 21:49                5466
+<a href="ocelot.txt">ocelot.txt</a>                                         16-Aug-2020 20:26                4972
+<a href="qca8k.txt">qca8k.txt</a>                                          11-Jul-2021 22:21                4102
+<a href="qca8k.yaml">qca8k.yaml</a>                                         16-Oct-2022 22:41                8924
+<a href="realtek-smi.txt">realtek-smi.txt</a>                                    14-Nov-2021 22:02                5182
+<a href="realtek.yaml">realtek.yaml</a>                                       16-Oct-2022 22:41               13703
+<a href="renesas%2Crzn1-a5psw.yaml">renesas,rzn1-a5psw.yaml</a>                            25-Dec-2022 21:49                3855
+<a href="sja1105.txt">sja1105.txt</a>                                        14-May-2019 17:46                4555
+<a href="vitesse%2Cvsc73xx.txt">vitesse,vsc73xx.txt</a>                                16-Oct-2022 22:41                2752
+</pre><hr></body>
+</html>

@@ -1,0 +1,27 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/fpga/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/fpga/</h1><hr><pre><a href="../">../</a>
+<a href="altera-fpga2sdram-bridge.txt">altera-fpga2sdram-bridge.txt</a>                       30-Sep-2019 17:47                 353
+<a href="altera-freeze-bridge.txt">altera-freeze-bridge.txt</a>                           30-Sep-2019 17:47                 697
+<a href="altera-hps2fpga-bridge.txt">altera-hps2fpga-bridge.txt</a>                         30-Sep-2019 17:47                1044
+<a href="altera-passive-serial.txt">altera-passive-serial.txt</a>                          16-Sep-2017 23:22                 988
+<a href="altera-pr-ip.txt">altera-pr-ip.txt</a>                                   13-May-2017 20:33                 276
+<a href="altera-socfpga-a10-fpga-mgr.txt">altera-socfpga-a10-fpga-mgr.txt</a>                    12-Apr-2017 19:37                 629
+<a href="altera-socfpga-fpga-mgr.txt">altera-socfpga-fpga-mgr.txt</a>                        12-Apr-2017 19:37                 533
+<a href="fpga-bridge.txt">fpga-bridge.txt</a>                                    30-Sep-2019 17:47                 367
+<a href="fpga-region.txt">fpga-region.txt</a>                                    14-Aug-2022 23:08               17173
+<a href="intel-stratix10-soc-fpga-mgr.txt">intel-stratix10-soc-fpga-mgr.txt</a>                   21-Jul-2020 14:49                 372
+<a href="lattice%2Csysconfig.yaml">lattice,sysconfig.yaml</a>                             25-Dec-2022 21:49                1969
+<a href="lattice-ice40-fpga-mgr.txt">lattice-ice40-fpga-mgr.txt</a>                         13-May-2017 20:33                 729
+<a href="lattice-machxo2-spi.txt">lattice-machxo2-spi.txt</a>                            16-Jun-2018 23:08                 656
+<a href="microchip%2Cmpf-spi-fpga-mgr.yaml">microchip,mpf-spi-fpga-mgr.yaml</a>                    16-Oct-2022 22:41                 968
+<a href="xilinx-pr-decoupler.txt">xilinx-pr-decoupler.txt</a>                            09-May-2021 21:22                2045
+<a href="xilinx-slave-serial.txt">xilinx-slave-serial.txt</a>                            16-Aug-2020 20:26                1655
+<a href="xilinx-zynq-fpga-mgr.txt">xilinx-zynq-fpga-mgr.txt</a>                           12-Apr-2017 19:37                 560
+<a href="xilinx-zynq-fpga-mgr.yaml">xilinx-zynq-fpga-mgr.yaml</a>                          16-Oct-2022 22:41                 958
+<a href="xlnx%2Cversal-fpga.yaml">xlnx,versal-fpga.yaml</a>                              12-Sep-2021 23:34                 634
+<a href="xlnx%2Czynqmp-pcap-fpga.txt">xlnx,zynqmp-pcap-fpga.txt</a>                          19-May-2019 22:53                 641
+<a href="xlnx%2Czynqmp-pcap-fpga.yaml">xlnx,zynqmp-pcap-fpga.yaml</a>                         16-Oct-2022 22:41                 825
+</pre><hr></body>
+</html>

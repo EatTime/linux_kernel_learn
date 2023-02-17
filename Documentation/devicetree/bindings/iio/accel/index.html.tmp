@@ -1,0 +1,34 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/iio/accel/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/iio/accel/</h1><hr><pre><a href="../">../</a>
+<a href="adi%2Cadis16201.yaml">adi,adis16201.yaml</a>                                 16-Oct-2022 22:41                1175
+<a href="adi%2Cadis16240.yaml">adi,adis16240.yaml</a>                                 16-Oct-2022 22:41                1201
+<a href="adi%2Cadxl313.yaml">adi,adxl313.yaml</a>                                   16-Oct-2022 22:41                2163
+<a href="adi%2Cadxl345.yaml">adi,adxl345.yaml</a>                                   16-Oct-2022 22:41                1904
+<a href="adi%2Cadxl355.yaml">adi,adxl355.yaml</a>                                   25-Dec-2022 21:49                2424
+<a href="adi%2Cadxl367.yaml">adi,adxl367.yaml</a>                                   16-Oct-2022 22:41                1956
+<a href="adi%2Cadxl372.yaml">adi,adxl372.yaml</a>                                   16-Oct-2022 22:41                1767
+<a href="adxl345.txt">adxl345.txt</a>                                        26-Aug-2018 21:24                1094
+<a href="adxl372.txt">adxl372.txt</a>                                        04-Nov-2018 23:45                 891
+<a href="bma180.txt">bma180.txt</a>                                         21-Jul-2020 14:49                1101
+<a href="bosch%2Cbma180.yaml">bosch,bma180.yaml</a>                                  11-Jul-2021 22:21                1499
+<a href="bosch%2Cbma220.yaml">bosch,bma220.yaml</a>                                  16-Oct-2022 22:41                 988
+<a href="bosch%2Cbma255.yaml">bosch,bma255.yaml</a>                                  16-Oct-2022 22:41                2802
+<a href="bosch%2Cbma400.yaml">bosch,bma400.yaml</a>                                  12-Apr-2020 19:42                1306
+<a href="bosch%2Cbmi088.yaml">bosch,bmi088.yaml</a>                                  16-Oct-2022 22:41                1568
+<a href="dmard06.txt">dmard06.txt</a>                                        12-Apr-2017 19:37                 381
+<a href="fsl%2Cmma7455.yaml">fsl,mma7455.yaml</a>                                   16-Oct-2022 22:41                1892
+<a href="fsl%2Cmma8452.yaml">fsl,mma8452.yaml</a>                                   27-Dec-2020 23:43                1238
+<a href="kionix%2Ckx022a.yaml">kionix,kx022a.yaml</a>                                 25-Dec-2022 21:49                1372
+<a href="kionix%2Ckxcjk1013.txt">kionix,kxcjk1013.txt</a>                               10-Feb-2020 00:19                 438
+<a href="kionix%2Ckxcjk1013.yaml">kionix,kxcjk1013.yaml</a>                              14-Nov-2021 22:02                 991
+<a href="kionix%2Ckxsd9.txt">kionix,kxsd9.txt</a>                                   12-Apr-2017 19:37                 527
+<a href="kionix%2Ckxsd9.yaml">kionix,kxsd9.yaml</a>                                  16-Oct-2022 22:41                1626
+<a href="lis302.txt">lis302.txt</a>                                         07-Jan-2019 01:15                3687
+<a href="memsensing%2Cmsa311.yaml">memsensing,msa311.yaml</a>                             16-Oct-2022 22:41                1288
+<a href="mma8452.txt">mma8452.txt</a>                                        17-Mar-2019 21:25                 834
+<a href="murata%2Csca3300.yaml">murata,sca3300.yaml</a>                                16-Oct-2022 22:41                 943
+<a href="nxp%2Cfxls8962af.yaml">nxp,fxls8962af.yaml</a>                                16-Oct-2022 22:41                1853
+</pre><hr></body>
+</html>

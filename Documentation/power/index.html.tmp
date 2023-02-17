@@ -1,0 +1,53 @@
+<html>
+<head><title>Index of /doc/Documentation/power/</title></head>
+<body>
+<h1>Index of /doc/Documentation/power/</h1><hr><pre><a href="../">../</a>
+<a href="powercap/">powercap/</a>                                          01-Mar-2021 00:09                   -
+<a href="regulator/">regulator/</a>                                         21-Jul-2019 21:11                   -
+<a href="00-INDEX">00-INDEX</a>                                           12-Apr-2017 19:37                1481
+<a href="apm-acpi.rst">apm-acpi.rst</a>                                       21-Jul-2019 21:11                1652
+<a href="apm-acpi.txt">apm-acpi.txt</a>                                       12-Apr-2017 19:37                1542
+<a href="basic-pm-debugging.rst">basic-pm-debugging.rst</a>                             21-Jul-2019 21:11               12551
+<a href="basic-pm-debugging.txt">basic-pm-debugging.txt</a>                             12-Apr-2017 19:37               12218
+<a href="charger-manager.rst">charger-manager.rst</a>                                21-Jul-2019 21:11                9498
+<a href="charger-manager.txt">charger-manager.txt</a>                                12-Apr-2017 19:37                9427
+<a href="drivers-testing.rst">drivers-testing.rst</a>                                08-Dec-2019 23:13                2350
+<a href="drivers-testing.txt">drivers-testing.txt</a>                                12-Apr-2017 19:37                2189
+<a href="energy-model.rst">energy-model.rst</a>                                   14-Aug-2022 23:08               10723
+<a href="energy-model.txt">energy-model.txt</a>                                   17-Mar-2019 21:25                5607
+<a href="freezing-of-tasks.rst">freezing-of-tasks.rst</a>                              01-Mar-2021 00:09               12809
+<a href="freezing-of-tasks.txt">freezing-of-tasks.txt</a>                              26-Aug-2018 21:24               12337
+<a href="index.rst">index.rst</a>                                          01-Mar-2021 00:09                 704
+<a href="interface.rst">interface.rst</a>                                      21-Jul-2019 21:11                3656
+<a href="interface.txt">interface.txt</a>                                      27-Nov-2017 00:06                3550
+<a href="opp.rst">opp.rst</a>                                            23-Jan-2022 08:18               13991
+<a href="opp.txt">opp.txt</a>                                            12-Apr-2017 19:37               13779
+<a href="pci.rst">pci.rst</a>                                            14-Aug-2022 23:08               57942
+<a href="pci.txt">pci.txt</a>                                            11-Feb-2018 23:13               57628
+<a href="pm_qos_interface.rst">pm_qos_interface.rst</a>                               12-Apr-2020 19:42                9754
+<a href="pm_qos_interface.txt">pm_qos_interface.txt</a>                               27-Nov-2017 00:06                9907
+<a href="power_supply_class.rst">power_supply_class.rst</a>                             09-May-2021 21:22               10684
+<a href="power_supply_class.txt">power_supply_class.txt</a>                             15-Jul-2017 22:33               10104
+<a href="runtime_pm.rst">runtime_pm.rst</a>                                     23-Jan-2022 08:18               47947
+<a href="runtime_pm.txt">runtime_pm.txt</a>                                     27-Nov-2017 00:06               45618
+<a href="s2ram.rst">s2ram.rst</a>                                          21-Jul-2019 21:11                3336
+<a href="s2ram.txt">s2ram.txt</a>                                          12-Apr-2017 19:37                3334
+<a href="states.txt">states.txt</a>                                         12-Apr-2017 19:37                6232
+<a href="suspend-and-cpuhotplug.rst">suspend-and-cpuhotplug.rst</a>                         21-Jul-2020 14:49               13058
+<a href="suspend-and-cpuhotplug.txt">suspend-and-cpuhotplug.txt</a>                         26-Aug-2018 21:24               12765
+<a href="suspend-and-interrupts.rst">suspend-and-interrupts.rst</a>                         21-Jul-2019 21:11                7279
+<a href="suspend-and-interrupts.txt">suspend-and-interrupts.txt</a>                         12-Apr-2017 19:37                7205
+<a href="swsusp-and-swap-files.rst">swsusp-and-swap-files.rst</a>                          21-Jul-2019 21:11                2884
+<a href="swsusp-and-swap-files.txt">swsusp-and-swap-files.txt</a>                          12-Apr-2017 19:37                2768
+<a href="swsusp-dmcrypt.rst">swsusp-dmcrypt.rst</a>                                 21-Jul-2019 21:11                4918
+<a href="swsusp-dmcrypt.txt">swsusp-dmcrypt.txt</a>                                 12-Apr-2017 19:37                4762
+<a href="swsusp.rst">swsusp.rst</a>                                         08-Dec-2019 23:13               18419
+<a href="swsusp.txt">swsusp.txt</a>                                         04-Nov-2018 23:45               17949
+<a href="tricks.rst">tricks.rst</a>                                         21-Jul-2019 21:11                 769
+<a href="tricks.txt">tricks.txt</a>                                         12-Apr-2017 19:37                 753
+<a href="userland-swsusp.rst">userland-swsusp.rst</a>                                12-Apr-2020 19:42                8860
+<a href="userland-swsusp.txt">userland-swsusp.txt</a>                                12-Apr-2017 19:37                8649
+<a href="video.rst">video.rst</a>                                          21-Jul-2019 21:11                9005
+<a href="video.txt">video.txt</a>                                          12-Apr-2017 19:37                8484
+</pre><hr></body>
+</html>

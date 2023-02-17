@@ -1,0 +1,12 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/leds/irled/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/leds/irled/</h1><hr><pre><a href="../">../</a>
+<a href="gpio-ir-tx.txt">gpio-ir-tx.txt</a>                                     16-Sep-2017 23:22                 456
+<a href="gpio-ir-tx.yaml">gpio-ir-tx.yaml</a>                                    25-Dec-2022 21:49                 671
+<a href="ir-spi-led.yaml">ir-spi-led.yaml</a>                                    25-Dec-2022 21:49                1228
+<a href="pwm-ir-tx.txt">pwm-ir-tx.txt</a>                                      16-Sep-2017 23:22                 387
+<a href="pwm-ir-tx.yaml">pwm-ir-tx.yaml</a>                                     25-Dec-2022 21:49                 614
+<a href="spi-ir-led.txt">spi-ir-led.txt</a>                                     10-Feb-2020 00:19                 930
+</pre><hr></body>
+</html>

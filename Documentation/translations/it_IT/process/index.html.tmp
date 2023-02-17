@@ -1,0 +1,42 @@
+<html>
+<head><title>Index of /doc/Documentation/translations/it_IT/process/</title></head>
+<body>
+<h1>Index of /doc/Documentation/translations/it_IT/process/</h1><hr><pre><a href="../">../</a>
+<a href="1.Intro.rst">1.Intro.rst</a>                                        07-Jan-2019 01:15               16983
+<a href="2.Process.rst">2.Process.rst</a>                                      27-Dec-2020 23:43               27791
+<a href="3.Early-stage.rst">3.Early-stage.rst</a>                                  14-Aug-2022 23:08               12684
+<a href="4.Coding.rst">4.Coding.rst</a>                                       09-May-2021 21:22               25154
+<a href="5.Posting.rst">5.Posting.rst</a>                                      14-Aug-2022 23:08               19101
+<a href="6.Followthrough.rst">6.Followthrough.rst</a>                                07-Jan-2019 01:15               13808
+<a href="7.AdvancedTopics.rst">7.AdvancedTopics.rst</a>                               07-Jan-2019 01:15               10997
+<a href="8.Conclusion.rst">8.Conclusion.rst</a>                                   14-Aug-2022 23:08                3550
+<a href="adding-syscalls.rst">adding-syscalls.rst</a>                                09-May-2021 21:22               31154
+<a href="applying-patches.rst">applying-patches.rst</a>                               17-Mar-2019 21:25                 458
+<a href="changes.rst">changes.rst</a>                                        14-Aug-2022 23:08               14871
+<a href="clang-format.rst">clang-format.rst</a>                                   07-Jan-2019 01:15                7311
+<a href="code-of-conduct.rst">code-of-conduct.rst</a>                                07-Jan-2019 01:15                 279
+<a href="coding-style.rst">coding-style.rst</a>                                   14-Aug-2022 23:08               45363
+<a href="deprecated.rst">deprecated.rst</a>                                     14-Aug-2022 23:08               17907
+<a href="development-process.rst">development-process.rst</a>                            07-Jan-2019 01:15                1087
+<a href="email-clients.rst">email-clients.rst</a>                                  27-Dec-2020 23:43               13432
+<a href="howto.rst">howto.rst</a>                                          06-Nov-2022 23:13               30643
+<a href="index.rst">index.rst</a>                                          14-Aug-2022 23:08                1557
+<a href="kernel-docs.rst">kernel-docs.rst</a>                                    28-Jul-2019 19:51                 743
+<a href="kernel-driver-statement.rst">kernel-driver-statement.rst</a>                        07-Jan-2019 01:15                4595
+<a href="kernel-enforcement-statement.rst">kernel-enforcement-statement.rst</a>                   14-May-2019 17:46                5719
+<a href="license-rules.rst">license-rules.rst</a>                                  21-Jul-2019 21:11               19663
+<a href="magic-number.rst">magic-number.rst</a>                                   16-Oct-2022 22:41                4106
+<a href="maintainer-handbooks.rst">maintainer-handbooks.rst</a>                           14-Aug-2022 23:08                 699
+<a href="maintainer-pgp-guide.rst">maintainer-pgp-guide.rst</a>                           14-Aug-2022 23:08               40918
+<a href="maintainer-tip.rst">maintainer-tip.rst</a>                                 14-Aug-2022 23:08                 214
+<a href="maintainers.rst">maintainers.rst</a>                                    14-Aug-2022 23:08                 593
+<a href="management-style.rst">management-style.rst</a>                               21-Jul-2020 14:49               15006
+<a href="programming-language.rst">programming-language.rst</a>                           03-Apr-2022 21:43                2486
+<a href="stable-api-nonsense.rst">stable-api-nonsense.rst</a>                            17-Mar-2019 21:25               10308
+<a href="stable-kernel-rules.rst">stable-kernel-rules.rst</a>                            14-Aug-2022 23:08                8840
+<a href="submit-checklist.rst">submit-checklist.rst</a>                               09-May-2021 21:22                6042
+<a href="submitting-drivers.rst">submitting-drivers.rst</a>                             17-Mar-2019 21:25                 609
+<a href="submitting-patches.rst">submitting-patches.rst</a>                             14-Aug-2022 23:08               39173
+<a href="volatile-considered-harmful.rst">volatile-considered-harmful.rst</a>                    07-Jan-2019 01:15                6722
+</pre><hr></body>
+</html>

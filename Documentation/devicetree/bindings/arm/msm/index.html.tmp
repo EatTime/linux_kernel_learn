@@ -1,0 +1,14 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/arm/msm/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/arm/msm/</h1><hr><pre><a href="../">../</a>
+<a href="qcom%2Cidle-state.txt">qcom,idle-state.txt</a>                                03-Apr-2022 21:43                4068
+<a href="qcom%2Ckpss-acc.txt">qcom,kpss-acc.txt</a>                                  04-Nov-2018 23:45                1396
+<a href="qcom%2Ckpss-gcc.txt">qcom,kpss-gcc.txt</a>                                  04-Nov-2018 23:45                1162
+<a href="qcom%2Cllcc.txt">qcom,llcc.txt</a>                                      04-Nov-2018 23:45                1378
+<a href="qcom%2Cllcc.yaml">qcom,llcc.yaml</a>                                     25-Dec-2022 21:49                1739
+<a href="qcom%2Csaw2.txt">qcom,saw2.txt</a>                                      14-Aug-2022 23:08                2024
+<a href="ssbi.txt">ssbi.txt</a>                                           12-Apr-2017 19:37                 559
+<a href="timer.txt">timer.txt</a>                                          12-Apr-2017 19:37                1696
+</pre><hr></body>
+</html>

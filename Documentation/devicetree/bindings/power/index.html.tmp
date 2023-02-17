@@ -1,0 +1,47 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/power/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/power/</h1><hr><pre><a href="../">../</a>
+<a href="avs/">avs/</a>                                               25-Dec-2022 21:49                   -
+<a href="reset/">reset/</a>                                             25-Dec-2022 21:49                   -
+<a href="supply/">supply/</a>                                            25-Dec-2022 21:49                   -
+<a href="actions%2Cowl-sps.txt">actions,owl-sps.txt</a>                                04-Nov-2018 23:45                 771
+<a href="amlogic%2Cmeson-ee-pwrc.yaml">amlogic,meson-ee-pwrc.yaml</a>                         18-Sep-2022 20:47                4248
+<a href="amlogic%2Cmeson-gx-pwrc.txt">amlogic,meson-gx-pwrc.txt</a>                          08-Dec-2019 23:13                1926
+<a href="amlogic%2Cmeson-sec-pwrc.yaml">amlogic,meson-sec-pwrc.yaml</a>                        14-Aug-2022 23:08                 926
+<a href="apple%2Cpmgr-pwrstate.yaml">apple,pmgr-pwrstate.yaml</a>                           14-Aug-2022 23:08                2096
+<a href="brcm%2Cbcm-pmb.yaml">brcm,bcm-pmb.yaml</a>                                  09-May-2021 21:22                1182
+<a href="brcm%2Cbcm63xx-power.yaml">brcm,bcm63xx-power.yaml</a>                            14-Aug-2022 23:08                1010
+<a href="domain-idle-state.txt">domain-idle-state.txt</a>                              12-Apr-2017 19:37                1058
+<a href="domain-idle-state.yaml">domain-idle-state.yaml</a>                             25-Dec-2022 21:49                2105
+<a href="fsl%2Cimx-gpc.txt">fsl,imx-gpc.txt</a>                                    21-Jul-2020 14:32                2725
+<a href="fsl%2Cimx-gpc.yaml">fsl,imx-gpc.yaml</a>                                   16-Oct-2022 22:41                3506
+<a href="fsl%2Cimx-gpcv2.txt">fsl,imx-gpcv2.txt</a>                                  21-Jul-2020 14:32                2035
+<a href="fsl%2Cimx-gpcv2.yaml">fsl,imx-gpcv2.yaml</a>                                 06-Nov-2022 23:13                3808
+<a href="fsl%2Cscu-pd.yaml">fsl,scu-pd.yaml</a>                                    25-Dec-2022 21:49                 930
+<a href="max8903-charger.txt">max8903-charger.txt</a>                                12-Apr-2017 19:37                 877
+<a href="mediatek%2Cpower-controller.yaml">mediatek,power-controller.yaml</a>                     16-Oct-2022 22:41                7605
+<a href="mti%2Cmips-cpc.txt">mti,mips-cpc.txt</a>                                   19-Feb-2018 01:32                 257
+<a href="mti%2Cmips-cpc.yaml">mti,mips-cpc.yaml</a>                                  25-Oct-2020 22:20                 753
+<a href="pd-samsung.txt">pd-samsung.txt</a>                                     16-Jun-2018 23:08                1418
+<a href="pd-samsung.yaml">pd-samsung.yaml</a>                                    25-Oct-2020 22:20                1385
+<a href="power-controller.txt">power-controller.txt</a>                               16-Sep-2017 23:22                 729
+<a href="power-domain.yaml">power-domain.yaml</a>                                  03-Apr-2022 21:43                4992
+<a href="power_domain.txt">power_domain.txt</a>                                   09-Mar-2020 00:48                3640
+<a href="qcom%2Crpmpd.txt">qcom,rpmpd.txt</a>                                     08-Dec-2019 23:13                3550
+<a href="qcom%2Crpmpd.yaml">qcom,rpmpd.yaml</a>                                    25-Dec-2022 21:49                4437
+<a href="renesas%2Capmu.txt">renesas,apmu.txt</a>                                   04-Nov-2018 23:45                1156
+<a href="renesas%2Capmu.yaml">renesas,apmu.yaml</a>                                  25-Dec-2022 21:49                1575
+<a href="renesas%2Crcar-sysc.txt">renesas,rcar-sysc.txt</a>                              08-Dec-2019 23:13                1911
+<a href="renesas%2Crcar-sysc.yaml">renesas,rcar-sysc.yaml</a>                             14-Aug-2022 23:08                2050
+<a href="renesas%2Crzg2l-sysc.yaml">renesas,rzg2l-sysc.yaml</a>                            03-Apr-2022 21:43                1885
+<a href="renesas%2Csysc-rmobile.txt">renesas,sysc-rmobile.txt</a>                           08-Dec-2019 23:13                2817
+<a href="renesas%2Csysc-rmobile.yaml">renesas,sysc-rmobile.yaml</a>                          11-Jul-2021 22:21                3495
+<a href="rockchip%2Cpower-controller.yaml">rockchip,power-controller.yaml</a>                     16-Oct-2022 22:41                7607
+<a href="rockchip-io-domain.txt">rockchip-io-domain.txt</a>                             16-Jun-2018 23:08                5659
+<a href="rockchip-io-domain.yaml">rockchip-io-domain.yaml</a>                            16-Oct-2022 22:41               11771
+<a href="ti-smartreflex.txt">ti-smartreflex.txt</a>                                 11-Feb-2018 23:13                1157
+<a href="wakeup-source.txt">wakeup-source.txt</a>                                  25-Dec-2022 21:49                2045
+<a href="xlnx%2Czynqmp-genpd.txt">xlnx,zynqmp-genpd.txt</a>                              08-Dec-2019 23:13                 791
+</pre><hr></body>
+</html>

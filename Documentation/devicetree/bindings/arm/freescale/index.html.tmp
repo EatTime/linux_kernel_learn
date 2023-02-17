@@ -1,0 +1,17 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/arm/freescale/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/arm/freescale/</h1><hr><pre><a href="../">../</a>
+<a href="fsl%2Cimx7ulp-pm.txt">fsl,imx7ulp-pm.txt</a>                                 07-Jan-2019 01:15                 871
+<a href="fsl%2Cimx7ulp-pm.yaml">fsl,imx7ulp-pm.yaml</a>                                25-Oct-2020 22:20                1141
+<a href="fsl%2Cimx7ulp-sim.txt">fsl,imx7ulp-sim.txt</a>                                17-Mar-2019 21:25                 638
+<a href="fsl%2Cimx7ulp-sim.yaml">fsl,imx7ulp-sim.yaml</a>                               25-Oct-2020 22:20                 939
+<a href="fsl%2Clayerscape-dcfg.txt">fsl,layerscape-dcfg.txt</a>                            06-Mar-2022 22:30                 672
+<a href="fsl%2Clayerscape-scfg.txt">fsl,layerscape-scfg.txt</a>                            04-Nov-2018 23:45                 601
+<a href="fsl%2Cscu.txt">fsl,scu.txt</a>                                        03-Apr-2022 21:43                7794
+<a href="fsl%2Cvf610-mscm-cpucfg.txt">fsl,vf610-mscm-cpucfg.txt</a>                          12-Apr-2017 19:37                 468
+<a href="fsl%2Cvf610-mscm-ir.txt">fsl,vf610-mscm-ir.txt</a>                              26-Aug-2018 21:24                1285
+<a href="m4if.txt">m4if.txt</a>                                           26-Aug-2018 21:24                 284
+<a href="tigerp.txt">tigerp.txt</a>                                         26-Aug-2018 21:24                 263
+</pre><hr></body>
+</html>

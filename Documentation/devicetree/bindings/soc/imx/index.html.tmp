@@ -1,0 +1,17 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/soc/imx/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/soc/imx/</h1><hr><pre><a href="../">../</a>
+<a href="fsl%2Caips-bus.yaml">fsl,aips-bus.yaml</a>                                  25-Oct-2020 22:20                 902
+<a href="fsl%2Cimx8mm-disp-blk-ctrl.yaml">fsl,imx8mm-disp-blk-ctrl.yaml</a>                      14-Nov-2021 22:02                2503
+<a href="fsl%2Cimx8mm-vpu-blk-ctrl.yaml">fsl,imx8mm-vpu-blk-ctrl.yaml</a>                       16-Oct-2022 22:41                3834
+<a href="fsl%2Cimx8mn-disp-blk-ctrl.yaml">fsl,imx8mn-disp-blk-ctrl.yaml</a>                      23-Jan-2022 08:18                2585
+<a href="fsl%2Cimx8mp-hdmi-blk-ctrl.yaml">fsl,imx8mp-hdmi-blk-ctrl.yaml</a>                      16-Oct-2022 22:41                2194
+<a href="fsl%2Cimx8mp-hsio-blk-ctrl.yaml">fsl,imx8mp-hsio-blk-ctrl.yaml</a>                      16-Oct-2022 22:41                1984
+<a href="fsl%2Cimx8mp-media-blk-ctrl.yaml">fsl,imx8mp-media-blk-ctrl.yaml</a>                     16-Oct-2022 22:41                3278
+<a href="fsl%2Cimx8mq-vpu-blk-ctrl.yaml">fsl,imx8mq-vpu-blk-ctrl.yaml</a>                       03-Apr-2022 21:43                1499
+<a href="fsl%2Cimx93-media-blk-ctrl.yaml">fsl,imx93-media-blk-ctrl.yaml</a>                      16-Oct-2022 22:41                2002
+<a href="fsl%2Cimx93-src.yaml">fsl,imx93-src.yaml</a>                                 16-Oct-2022 22:41                2199
+<a href="imx8m-soc.yaml">imx8m-soc.yaml</a>                                     01-Mar-2021 00:09                1755
+</pre><hr></body>
+</html>

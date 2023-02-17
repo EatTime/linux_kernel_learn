@@ -1,0 +1,13 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/mips/lantiq/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/mips/lantiq/</h1><hr><pre><a href="../">../</a>
+<a href="fpi-bus.txt">fpi-bus.txt</a>                                        16-Sep-2017 23:22                 886
+<a href="lantiq%2Ccgu.yaml">lantiq,cgu.yaml</a>                                    01-Mar-2021 00:09                 581
+<a href="lantiq%2Cdma-xway.yaml">lantiq,dma-xway.yaml</a>                               25-Dec-2022 21:49                 568
+<a href="lantiq%2Cebu.yaml">lantiq,ebu.yaml</a>                                    01-Mar-2021 00:09                 576
+<a href="lantiq%2Cpmu.yaml">lantiq,pmu.yaml</a>                                    01-Mar-2021 00:09                 581
+<a href="rcu-gphy.txt">rcu-gphy.txt</a>                                       16-Sep-2017 23:22                1204
+<a href="rcu.txt">rcu.txt</a>                                            14-Aug-2022 23:08                1823
+</pre><hr></body>
+</html>

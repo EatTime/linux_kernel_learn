@@ -1,0 +1,12 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/spmi/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/spmi/</h1><hr><pre><a href="../">../</a>
+<a href="hisilicon%2Chisi-spmi-controller.yaml">hisilicon,hisi-spmi-controller.yaml</a>                11-Jul-2021 22:21                1689
+<a href="mtk%2Cspmi-mtk-pmif.yaml">mtk,spmi-mtk-pmif.yaml</a>                             16-Oct-2022 22:41                1630
+<a href="qcom%2Cspmi-pmic-arb.txt">qcom,spmi-pmic-arb.txt</a>                             25-Oct-2020 22:20                2514
+<a href="qcom%2Cspmi-pmic-arb.yaml">qcom,spmi-pmic-arb.yaml</a>                            25-Dec-2022 21:49                3138
+<a href="spmi.txt">spmi.txt</a>                                           12-Apr-2017 19:37                1142
+<a href="spmi.yaml">spmi.yaml</a>                                          23-Jan-2022 08:18                1549
+</pre><hr></body>
+</html>

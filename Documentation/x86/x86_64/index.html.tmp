@@ -1,0 +1,23 @@
+<html>
+<head><title>Index of /doc/Documentation/x86/x86_64/</title></head>
+<body>
+<h1>Index of /doc/Documentation/x86/x86_64/</h1><hr><pre><a href="../">../</a>
+<a href="00-INDEX">00-INDEX</a>                                           12-Apr-2017 19:37                 511
+<a href="5level-paging.rst">5level-paging.rst</a>                                  09-May-2021 21:22                2593
+<a href="5level-paging.txt">5level-paging.txt</a>                                  16-Apr-2018 01:33                2455
+<a href="boot-options.rst">boot-options.rst</a>                                   14-Aug-2022 23:08                9767
+<a href="boot-options.txt">boot-options.txt</a>                                   07-Jan-2019 01:15               10700
+<a href="cpu-hotplug-spec">cpu-hotplug-spec</a>                                   12-Apr-2017 19:37                1155
+<a href="cpu-hotplug-spec.rst">cpu-hotplug-spec.rst</a>                               14-May-2019 17:46                1244
+<a href="fake-numa-for-cpusets">fake-numa-for-cpusets</a>                              12-Apr-2017 19:37                3080
+<a href="fake-numa-for-cpusets.rst">fake-numa-for-cpusets.rst</a>                          21-Jul-2019 21:11                3311
+<a href="fsgs.rst">fsgs.rst</a>                                           16-Aug-2020 20:26                7161
+<a href="index.rst">index.rst</a>                                          16-Aug-2020 20:26                 229
+<a href="machinecheck">machinecheck</a>                                       12-Apr-2017 19:37                3302
+<a href="machinecheck.rst">machinecheck.rst</a>                                   14-Nov-2021 22:02                1334
+<a href="mm.rst">mm.rst</a>                                             12-Sep-2021 23:34               11020
+<a href="mm.txt">mm.txt</a>                                             11-Nov-2018 23:14               10988
+<a href="uefi.rst">uefi.rst</a>                                           14-Aug-2022 23:08                1821
+<a href="uefi.txt">uefi.txt</a>                                           12-Apr-2017 19:37                1729
+</pre><hr></body>
+</html>

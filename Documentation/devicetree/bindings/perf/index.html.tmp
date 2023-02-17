@@ -1,0 +1,19 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/perf/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/perf/</h1><hr><pre><a href="../">../</a>
+<a href="amlogic%2Cg12-ddr-pmu.yaml">amlogic,g12-ddr-pmu.yaml</a>                           25-Dec-2022 21:49                1323
+<a href="apm-xgene-pmu.txt">apm-xgene-pmu.txt</a>                                  12-Apr-2017 19:37                3016
+<a href="arm%2Cccn.yaml">arm,ccn.yaml</a>                                       14-Aug-2022 23:08                 698
+<a href="arm%2Ccmn.yaml">arm,cmn.yaml</a>                                       06-Jun-2022 00:23                1754
+<a href="arm%2Cdsu-pmu.yaml">arm,dsu-pmu.yaml</a>                                   25-Dec-2022 21:49                1256
+<a href="arm%2Csmmu-v3-pmcg.yaml">arm,smmu-v3-pmcg.yaml</a>                              23-Jan-2022 08:18                1708
+<a href="arm-ccn.txt">arm-ccn.txt</a>                                        08-Dec-2019 23:13                 510
+<a href="fsl-imx-ddr.txt">fsl-imx-ddr.txt</a>                                    08-Dec-2019 23:13                 441
+<a href="fsl-imx-ddr.yaml">fsl-imx-ddr.yaml</a>                                   27-Dec-2020 23:43                1135
+<a href="marvell-cn10k-ddr.yaml">marvell-cn10k-ddr.yaml</a>                             03-Apr-2022 21:43                 698
+<a href="marvell-cn10k-tad.yaml">marvell-cn10k-tad.yaml</a>                             23-Jan-2022 08:18                1644
+<a href="nds32v3-pmu.txt">nds32v3-pmu.txt</a>                                    07-Jan-2019 01:15                 380
+<a href="spe-pmu.yaml">spe-pmu.yaml</a>                                       06-Jun-2022 00:23                1088
+</pre><hr></body>
+</html>

@@ -1,0 +1,20 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/iio/magnetometer/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/iio/magnetometer/</h1><hr><pre><a href="../">../</a>
+<a href="ak8974.txt">ak8974.txt</a>                                         21-Jul-2020 14:49                 818
+<a href="ak8975.txt">ak8975.txt</a>                                         27-Nov-2017 00:06                1038
+<a href="asahi-kasei%2Cak8974.yaml">asahi-kasei,ak8974.yaml</a>                            27-Dec-2020 23:43                1226
+<a href="asahi-kasei%2Cak8975.yaml">asahi-kasei,ak8975.yaml</a>                            14-Nov-2021 22:02                2583
+<a href="bmc150_magn.txt">bmc150_magn.txt</a>                                    16-Aug-2020 20:26                 634
+<a href="bosch%2Cbmc150_magn.yaml">bosch,bmc150_magn.yaml</a>                             01-Mar-2021 00:09                1325
+<a href="fsl%2Cmag3110.yaml">fsl,mag3110.yaml</a>                                   27-Dec-2020 23:43                 937
+<a href="hmc5843.txt">hmc5843.txt</a>                                        12-Apr-2017 19:37                 476
+<a href="honeywell%2Chmc5843.yaml">honeywell,hmc5843.yaml</a>                             27-Dec-2020 23:43                 754
+<a href="mag3110.txt">mag3110.txt</a>                                        07-Jan-2019 01:15                 702
+<a href="mmc35240.txt">mmc35240.txt</a>                                       12-Apr-2017 19:37                 242
+<a href="pni%2Crm3100.txt">pni,rm3100.txt</a>                                     07-Jan-2019 01:15                 431
+<a href="pni%2Crm3100.yaml">pni,rm3100.yaml</a>                                    27-Dec-2020 23:43                 805
+<a href="yamaha%2Cyas530.yaml">yamaha,yas530.yaml</a>                                 23-Jan-2022 08:18                2788
+</pre><hr></body>
+</html>

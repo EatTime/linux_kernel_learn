@@ -1,0 +1,26 @@
+<html>
+<head><title>Index of /doc/Documentation/firmware-guide/acpi/</title></head>
+<body>
+<h1>Index of /doc/Documentation/firmware-guide/acpi/</h1><hr><pre><a href="../">../</a>
+<a href="apei/">apei/</a>                                              14-Aug-2022 23:08                   -
+<a href="dsd/">dsd/</a>                                               23-Jan-2022 08:18                   -
+<a href="DSD-properties-rules.rst">DSD-properties-rules.rst</a>                           14-Aug-2022 23:08                4825
+<a href="acpi-lid.rst">acpi-lid.rst</a>                                       16-Nov-2020 00:49                5412
+<a href="aml-debugger.rst">aml-debugger.rst</a>                                   14-May-2019 17:46                2112
+<a href="chromeos-acpi-device.rst">chromeos-acpi-device.rst</a>                           06-Jun-2022 00:23                8947
+<a href="debug.rst">debug.rst</a>                                          09-May-2021 21:22                4966
+<a href="enumeration.rst">enumeration.rst</a>                                    16-Oct-2022 22:41               22283
+<a href="extcon-intel-int3496.rst">extcon-intel-int3496.rst</a>                           21-Jul-2019 21:11                1487
+<a href="gpio-properties.rst">gpio-properties.rst</a>                                03-Apr-2022 21:43               12442
+<a href="i2c-muxes.rst">i2c-muxes.rst</a>                                      14-May-2019 17:46                1719
+<a href="index.rst">index.rst</a>                                          06-Jun-2022 00:23                 482
+<a href="intel-pmc-mux.rst">intel-pmc-mux.rst</a>                                  21-Jul-2020 14:49                4861
+<a href="lpit.rst">lpit.rst</a>                                           16-Aug-2020 20:26                1275
+<a href="method-customizing.rst">method-customizing.rst</a>                             14-May-2019 17:46                3370
+<a href="method-tracing.rst">method-tracing.rst</a>                                 16-Nov-2020 00:49                9221
+<a href="namespace.rst">namespace.rst</a>                                      12-Apr-2020 19:42               17542
+<a href="non-d0-probe.rst">non-d0-probe.rst</a>                                   14-Nov-2021 22:02                2256
+<a href="osi.rst">osi.rst</a>                                            16-Oct-2022 22:41                8330
+<a href="video_extension.rst">video_extension.rst</a>                                14-May-2019 17:46                4369
+</pre><hr></body>
+</html>

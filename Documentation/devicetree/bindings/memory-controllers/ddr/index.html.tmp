@@ -1,0 +1,17 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/memory-controllers/ddr/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/memory-controllers/ddr/</h1><hr><pre><a href="../">../</a>
+<a href="jedec%2Clpddr-channel.yaml">jedec,lpddr-channel.yaml</a>                           25-Dec-2022 21:49                3888
+<a href="jedec%2Clpddr-props.yaml">jedec,lpddr-props.yaml</a>                             25-Dec-2022 21:49                2125
+<a href="jedec%2Clpddr2-timings.yaml">jedec,lpddr2-timings.yaml</a>                          17-Apr-2022 21:04                3446
+<a href="jedec%2Clpddr2.yaml">jedec,lpddr2.yaml</a>                                  25-Dec-2022 21:49                5918
+<a href="jedec%2Clpddr3-timings.yaml">jedec,lpddr3-timings.yaml</a>                          17-Apr-2022 21:04                4110
+<a href="jedec%2Clpddr3.yaml">jedec,lpddr3.yaml</a>                                  25-Dec-2022 21:49                6623
+<a href="jedec%2Clpddr4.yaml">jedec,lpddr4.yaml</a>                                  25-Dec-2022 21:49                 722
+<a href="jedec%2Clpddr5.yaml">jedec,lpddr5.yaml</a>                                  25-Dec-2022 21:49                1048
+<a href="lpddr2-timings.txt">lpddr2-timings.txt</a>                                 14-Nov-2021 22:02                1200
+<a href="lpddr3-timings.txt">lpddr3-timings.txt</a>                                 14-Nov-2021 22:02                1212
+<a href="lpddr3.txt">lpddr3.txt</a>                                         14-Nov-2021 22:02                2667
+</pre><hr></body>
+</html>

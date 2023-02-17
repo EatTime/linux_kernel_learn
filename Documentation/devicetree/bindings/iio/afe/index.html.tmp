@@ -1,0 +1,14 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/iio/afe/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/iio/afe/</h1><hr><pre><a href="../">../</a>
+<a href="current-sense-amplifier.txt">current-sense-amplifier.txt</a>                        16-Jun-2018 23:08                 774
+<a href="current-sense-amplifier.yaml">current-sense-amplifier.yaml</a>                       27-Dec-2020 23:43                1330
+<a href="current-sense-shunt.txt">current-sense-shunt.txt</a>                            16-Jun-2018 23:08                 977
+<a href="current-sense-shunt.yaml">current-sense-shunt.yaml</a>                           11-Jul-2021 22:21                1586
+<a href="temperature-sense-rtd.yaml">temperature-sense-rtd.yaml</a>                         03-Apr-2022 21:43                2709
+<a href="temperature-transducer.yaml">temperature-transducer.yaml</a>                        03-Apr-2022 21:43                3714
+<a href="voltage-divider.txt">voltage-divider.txt</a>                                16-Jun-2018 23:08                1344
+<a href="voltage-divider.yaml">voltage-divider.yaml</a>                               27-Dec-2020 23:43                2030
+</pre><hr></body>
+</html>

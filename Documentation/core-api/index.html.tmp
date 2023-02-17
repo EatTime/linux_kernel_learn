@@ -1,0 +1,60 @@
+<html>
+<head><title>Index of /doc/Documentation/core-api/</title></head>
+<body>
+<h1>Index of /doc/Documentation/core-api/</h1><hr><pre><a href="../">../</a>
+<a href="irq/">irq/</a>                                               16-Oct-2022 22:41                   -
+<a href="wrappers/">wrappers/</a>                                          16-Oct-2022 22:41                   -
+<a href="asm-annotations.rst">asm-annotations.rst</a>                                16-Oct-2022 22:41                9655
+<a href="assoc_array.rst">assoc_array.rst</a>                                    07-Jan-2019 01:15               21254
+<a href="atomic_ops.rst">atomic_ops.rst</a>                                     14-Aug-2018 19:47               23220
+<a href="boot-time-mm.rst">boot-time-mm.rst</a>                                   04-Nov-2018 23:45                1442
+<a href="bus-virt-phys-mapping.rst">bus-virt-phys-mapping.rst</a>                          11-Jul-2021 22:21                8232
+<a href="cachetlb.rst">cachetlb.rst</a>                                       14-Nov-2021 22:02               17212
+<a href="circular-buffers.rst">circular-buffers.rst</a>                               21-Jul-2019 21:11                8364
+<a href="conf.py">conf.py</a>                                            12-Apr-2017 19:37                 212
+<a href="cpu_hotplug.rst">cpu_hotplug.rst</a>                                    16-Oct-2022 22:41               30044
+<a href="debug-objects.rst">debug-objects.rst</a>                                  12-Apr-2017 19:37               11581
+<a href="debugging-via-ohci1394.rst">debugging-via-ohci1394.rst</a>                         21-Jul-2020 14:49                7658
+<a href="dma-api-howto.rst">dma-api-howto.rst</a>                                  14-Aug-2022 23:08               32810
+<a href="dma-api.rst">dma-api.rst</a>                                        14-Aug-2022 23:08               31483
+<a href="dma-attributes.rst">dma-attributes.rst</a>                                 13-Mar-2022 20:27                5853
+<a href="dma-isa-lpc.rst">dma-isa-lpc.rst</a>                                    11-Jul-2021 22:21                5216
+<a href="entry.rst">entry.rst</a>                                          03-Apr-2022 21:43                9690
+<a href="errseq.rst">errseq.rst</a>                                         11-Feb-2018 23:13                6585
+<a href="flexible-arrays.rst">flexible-arrays.rst</a>                                13-May-2017 20:33                6048
+<a href="gcc-plugins.rst">gcc-plugins.rst</a>                                    21-Jul-2019 21:11                3001
+<a href="genalloc.rst">genalloc.rst</a>                                       08-Dec-2019 23:13                5856
+<a href="generic-radix-tree.rst">generic-radix-tree.rst</a>                             17-Mar-2019 21:25                 323
+<a href="genericirq.rst">genericirq.rst</a>                                     25-Oct-2020 22:20               12789
+<a href="gfp_mask-from-fs-io.rst">gfp_mask-from-fs-io.rst</a>                            04-Nov-2018 23:45                3024
+<a href="idr.rst">idr.rst</a>                                            14-Aug-2022 23:08                2924
+<a href="index.rst">index.rst</a>                                          16-Oct-2022 22:41                2402
+<a href="ioctl.rst">ioctl.rst</a>                                          10-Feb-2020 00:19               10602
+<a href="kernel-api.rst">kernel-api.rst</a>                                     25-Dec-2022 21:49                8244
+<a href="kobject.rst">kobject.rst</a>                                        23-Jan-2022 08:18               19252
+<a href="kref.rst">kref.rst</a>                                           21-Jul-2020 14:49                9275
+<a href="librs.rst">librs.rst</a>                                          15-Jul-2017 22:33                6029
+<a href="local_ops.rst">local_ops.rst</a>                                      25-Dec-2022 21:49                7362
+<a href="maple_tree.rst">maple_tree.rst</a>                                     16-Oct-2022 22:41                9286
+<a href="memory-allocation.rst">memory-allocation.rst</a>                              27-Dec-2020 23:43                8678
+<a href="memory-hotplug.rst">memory-hotplug.rst</a>                                 14-Nov-2021 22:02                4630
+<a href="mm-api.rst">mm-api.rst</a>                                         16-Oct-2022 22:41                2088
+<a href="packing.rst">packing.rst</a>                                        30-Sep-2019 17:47                7427
+<a href="padata.rst">padata.rst</a>                                         16-Aug-2020 20:26                7678
+<a href="pin_user_pages.rst">pin_user_pages.rst</a>                                 03-Apr-2022 21:43               12285
+<a href="printk-basics.rst">printk-basics.rst</a>                                  12-Sep-2021 23:34                5006
+<a href="printk-formats.rst">printk-formats.rst</a>                                 16-Oct-2022 22:41               17841
+<a href="printk-index.rst">printk-index.rst</a>                                   06-Jun-2022 00:23                5516
+<a href="protection-keys.rst">protection-keys.rst</a>                                14-Aug-2022 23:08                3396
+<a href="rbtree.rst">rbtree.rst</a>                                         09-May-2021 21:22               15169
+<a href="refcount-vs-atomic.rst">refcount-vs-atomic.rst</a>                             08-Dec-2019 23:13                5708
+<a href="symbol-namespaces.rst">symbol-namespaces.rst</a>                              17-Jul-2022 20:36                6949
+<a href="this_cpu_ops.rst">this_cpu_ops.rst</a>                                   16-Aug-2020 20:26               11458
+<a href="timekeeping.rst">timekeeping.rst</a>                                    06-Jun-2022 00:23                7405
+<a href="tracepoint.rst">tracepoint.rst</a>                                     12-Apr-2017 19:37                1579
+<a href="unaligned-memory-access.rst">unaligned-memory-access.rst</a>                        16-Aug-2020 20:26               10689
+<a href="watch_queue.rst">watch_queue.rst</a>                                    06-Jun-2022 00:23               11679
+<a href="workqueue.rst">workqueue.rst</a>                                      14-Nov-2021 22:02               16168
+<a href="xarray.rst">xarray.rst</a>                                         03-Apr-2022 21:43               21412
+</pre><hr></body>
+</html>

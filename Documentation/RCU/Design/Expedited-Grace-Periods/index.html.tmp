@@ -1,0 +1,19 @@
+<html>
+<head><title>Index of /doc/Documentation/RCU/Design/Expedited-Grace-Periods/</title></head>
+<body>
+<h1>Index of /doc/Documentation/RCU/Design/Expedited-Grace-Periods/</h1><hr><pre><a href="../">../</a>
+<a href="ExpRCUFlow.svg">ExpRCUFlow.svg</a>                                     12-Apr-2017 19:37               32797
+<a href="ExpSchedFlow.svg">ExpSchedFlow.svg</a>                                   17-Mar-2019 21:25               32676
+<a href="Expedited-Grace-Periods.html">Expedited-Grace-Periods.html</a>                       14-May-2019 17:46               27697
+<a href="Expedited-Grace-Periods.rst">Expedited-Grace-Periods.rst</a>                        06-Jun-2022 00:23               27475
+<a href="Funnel0.svg">Funnel0.svg</a>                                        23-Jan-2022 08:18               10589
+<a href="Funnel1.svg">Funnel1.svg</a>                                        23-Jan-2022 08:18               10592
+<a href="Funnel2.svg">Funnel2.svg</a>                                        23-Jan-2022 08:18               11104
+<a href="Funnel3.svg">Funnel3.svg</a>                                        23-Jan-2022 08:18               12700
+<a href="Funnel4.svg">Funnel4.svg</a>                                        23-Jan-2022 08:18               12702
+<a href="Funnel5.svg">Funnel5.svg</a>                                        23-Jan-2022 08:18               13221
+<a href="Funnel6.svg">Funnel6.svg</a>                                        23-Jan-2022 08:18               13230
+<a href="Funnel7.svg">Funnel7.svg</a>                                        23-Jan-2022 08:18               13755
+<a href="Funnel8.svg">Funnel8.svg</a>                                        23-Jan-2022 08:18               12149
+</pre><hr></body>
+</html>

@@ -1,0 +1,24 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/mtd/partitions/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/mtd/partitions/</h1><hr><pre><a href="../">../</a>
+<a href="arm%2Carm-firmware-suite.txt">arm,arm-firmware-suite.txt</a>                         14-May-2019 17:46                 442
+<a href="arm%2Carm-firmware-suite.yaml">arm,arm-firmware-suite.yaml</a>                        25-Dec-2022 21:49                 723
+<a href="brcm%2Cbcm4908-partitions.yaml">brcm,bcm4908-partitions.yaml</a>                       25-Dec-2022 21:49                1645
+<a href="brcm%2Cbcm947xx-cfe-partitions.txt">brcm,bcm947xx-cfe-partitions.txt</a>                   16-Jun-2018 23:08                1680
+<a href="brcm%2Cbcm947xx-cfe-partitions.yaml">brcm,bcm947xx-cfe-partitions.yaml</a>                  25-Dec-2022 21:49                1863
+<a href="brcm%2Cbcm963xx-cfe-nor-partitions.txt">brcm,bcm963xx-cfe-nor-partitions.txt</a>               14-May-2019 17:46                 802
+<a href="brcm%2Cbcm963xx-imagetag.txt">brcm,bcm963xx-imagetag.txt</a>                         14-May-2019 17:46                 995
+<a href="brcm%2Ctrx.txt">brcm,trx.txt</a>                                       11-Jul-2021 22:21                1449
+<a href="fixed-partitions.yaml">fixed-partitions.yaml</a>                              25-Dec-2022 21:49                4109
+<a href="linksys%2Cns-partitions.yaml">linksys,ns-partitions.yaml</a>                         25-Dec-2022 21:49                1746
+<a href="nvmem-cells.yaml">nvmem-cells.yaml</a>                                   25-Dec-2022 21:49                2238
+<a href="partition.yaml">partition.yaml</a>                                     25-Dec-2022 21:49                2347
+<a href="partitions.yaml">partitions.yaml</a>                                    25-Dec-2022 21:49                 914
+<a href="qcom%2Csmem-part.yaml">qcom,smem-part.yaml</a>                                25-Dec-2022 21:49                1457
+<a href="redboot-fis.txt">redboot-fis.txt</a>                                    07-Jan-2019 01:15                 796
+<a href="redboot-fis.yaml">redboot-fis.yaml</a>                                   25-Dec-2022 21:49                1262
+<a href="tplink%2Csafeloader-partitions.yaml">tplink,safeloader-partitions.yaml</a>                  25-Dec-2022 21:49                1731
+<a href="u-boot.yaml">u-boot.yaml</a>                                        25-Dec-2022 21:49                1343
+</pre><hr></body>
+</html>

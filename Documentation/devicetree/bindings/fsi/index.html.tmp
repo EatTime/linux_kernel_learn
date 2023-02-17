@@ -1,0 +1,12 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/fsi/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/fsi/</h1><hr><pre><a href="../">../</a>
+<a href="fsi-master-aspeed.txt">fsi-master-aspeed.txt</a>                              25-Oct-2020 22:20                1153
+<a href="fsi-master-ast-cf.txt">fsi-master-ast-cf.txt</a>                              26-Aug-2018 21:24                1369
+<a href="fsi-master-gpio.txt">fsi-master-gpio.txt</a>                                16-Jun-2018 23:08                1046
+<a href="fsi.txt">fsi.txt</a>                                            26-Aug-2018 21:24                5197
+<a href="ibm%2Cfsi2spi.yaml">ibm,fsi2spi.yaml</a>                                   12-Sep-2021 23:34                 825
+<a href="ibm%2Cp9-occ.txt">ibm,p9-occ.txt</a>                                     27-Dec-2020 23:43                 543
+</pre><hr></body>
+</html>

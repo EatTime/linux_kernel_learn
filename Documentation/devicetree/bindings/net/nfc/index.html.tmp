@@ -1,0 +1,26 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/net/nfc/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/net/nfc/</h1><hr><pre><a href="../">../</a>
+<a href="marvell%2Cnci.yaml">marvell,nci.yaml</a>                                   16-Oct-2022 22:41                3605
+<a href="nfcmrvl.txt">nfcmrvl.txt</a>                                        16-Sep-2017 23:22                1897
+<a href="nxp%2Cnci.yaml">nxp,nci.yaml</a>                                       25-Dec-2022 21:49                1300
+<a href="nxp%2Cpn532.yaml">nxp,pn532.yaml</a>                                     17-Apr-2022 21:04                1243
+<a href="nxp%2Cpn544.yaml">nxp,pn544.yaml</a>                                     17-Apr-2022 21:04                1212
+<a href="nxp-nci.txt">nxp-nci.txt</a>                                        27-Dec-2020 23:43                 901
+<a href="pn532.txt">pn532.txt</a>                                          08-Dec-2019 23:13                1229
+<a href="pn533-i2c.txt">pn533-i2c.txt</a>                                      26-Aug-2018 21:24                 661
+<a href="pn544.txt">pn544.txt</a>                                          06-Dec-2020 22:29                 877
+<a href="s3fwrn5.txt">s3fwrn5.txt</a>                                        26-Aug-2018 21:24                 578
+<a href="samsung%2Cs3fwrn5.yaml">samsung,s3fwrn5.yaml</a>                               23-Oct-2022 22:39                1897
+<a href="st%2Cst-nci.yaml">st,st-nci.yaml</a>                                     14-Aug-2022 23:08                2159
+<a href="st%2Cst21nfca.yaml">st,st21nfca.yaml</a>                                   17-Apr-2022 21:04                1346
+<a href="st%2Cst95hf.yaml">st,st95hf.yaml</a>                                     14-Aug-2022 23:08                1200
+<a href="st-nci-i2c.txt">st-nci-i2c.txt</a>                                     26-Aug-2018 21:24                1004
+<a href="st-nci-spi.txt">st-nci-spi.txt</a>                                     26-Aug-2018 21:24                 961
+<a href="st21nfca.txt">st21nfca.txt</a>                                       26-Aug-2018 21:24                 940
+<a href="st95hf.txt">st95hf.txt</a>                                         26-Aug-2018 21:24                1203
+<a href="ti%2Ctrf7970a.yaml">ti,trf7970a.yaml</a>                                   14-Aug-2022 23:08                2333
+<a href="trf7970a.txt">trf7970a.txt</a>                                       26-Aug-2018 21:24                1472
+</pre><hr></body>
+</html>

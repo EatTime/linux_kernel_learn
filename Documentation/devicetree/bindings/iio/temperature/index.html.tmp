@@ -1,0 +1,21 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/bindings/iio/temperature/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/bindings/iio/temperature/</h1><hr><pre><a href="../">../</a>
+<a href="adi%2Cltc2983.yaml">adi,ltc2983.yaml</a>                                   25-Dec-2022 21:49               15654
+<a href="max31856.txt">max31856.txt</a>                                       14-May-2019 17:46                 706
+<a href="maxim%2Cmax31855k.yaml">maxim,max31855k.yaml</a>                               16-Oct-2022 22:41                1606
+<a href="maxim%2Cmax31856.yaml">maxim,max31856.yaml</a>                                16-Oct-2022 22:41                1238
+<a href="maxim%2Cmax31865.yaml">maxim,max31865.yaml</a>                                16-Oct-2022 22:41                1090
+<a href="maxim_thermocouple.txt">maxim_thermocouple.txt</a>                             10-Feb-2020 00:19                 735
+<a href="melexis%2Cmlx90614.yaml">melexis,mlx90614.yaml</a>                              27-Dec-2020 23:43                1236
+<a href="melexis%2Cmlx90632.yaml">melexis,mlx90632.yaml</a>                              16-Oct-2022 22:41                1713
+<a href="mlx90614.txt">mlx90614.txt</a>                                       12-Apr-2017 19:37                 743
+<a href="mlx90632.txt">mlx90632.txt</a>                                       16-Apr-2018 01:33                1135
+<a href="temperature-bindings.txt">temperature-bindings.txt</a>                           14-May-2019 17:46                 305
+<a href="ti%2Ctmp007.yaml">ti,tmp007.yaml</a>                                     27-Dec-2020 23:43                1246
+<a href="ti%2Ctmp117.yaml">ti,tmp117.yaml</a>                                     11-Jul-2021 22:21                 816
+<a href="tmp007.txt">tmp007.txt</a>                                         26-Aug-2018 21:24                 770
+<a href="tsys01.txt">tsys01.txt</a>                                         16-Sep-2017 23:22                 364
+</pre><hr></body>
+</html>

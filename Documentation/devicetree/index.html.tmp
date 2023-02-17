@@ -1,0 +1,25 @@
+<html>
+<head><title>Index of /doc/Documentation/devicetree/</title></head>
+<body>
+<h1>Index of /doc/Documentation/devicetree/</h1><hr><pre><a href="../">../</a>
+<a href="bindings/">bindings/</a>                                          12-Feb-2023 22:14                   -
+<a href="00-INDEX">00-INDEX</a>                                           12-Apr-2017 19:37                 510
+<a href="booting-without-of.rst">booting-without-of.rst</a>                             16-Aug-2020 20:26               65252
+<a href="booting-without-of.txt">booting-without-of.txt</a>                             21-Jul-2019 21:11               65014
+<a href="changesets.rst">changesets.rst</a>                                     09-May-2021 21:22                1548
+<a href="changesets.txt">changesets.txt</a>                                     21-Jul-2020 14:32                1409
+<a href="dynamic-resolution-notes.rst">dynamic-resolution-notes.rst</a>                       09-May-2021 21:22                1087
+<a href="dynamic-resolution-notes.txt">dynamic-resolution-notes.txt</a>                       21-Jul-2020 14:32                1019
+<a href="index.rst">index.rst</a>                                          09-May-2021 21:22                 468
+<a href="kernel-api.rst">kernel-api.rst</a>                                     09-May-2021 21:22                1011
+<a href="of_unittest.rst">of_unittest.rst</a>                                    03-Apr-2022 21:43                8714
+<a href="of_unittest.txt">of_unittest.txt</a>                                    21-Jul-2020 14:32                7722
+<a href="overlay-notes.rst">overlay-notes.rst</a>                                  06-Jun-2022 00:23                5365
+<a href="overlay-notes.txt">overlay-notes.txt</a>                                  21-Jul-2020 14:32                4235
+<a href="todo.txt">todo.txt</a>                                           12-Apr-2017 19:37                 415
+<a href="usage-model.rst">usage-model.rst</a>                                    09-May-2021 21:22               19350
+<a href="usage-model.txt">usage-model.txt</a>                                    21-Jul-2020 14:32               19258
+<a href="writing-schema.md">writing-schema.md</a>                                  14-May-2019 17:46                5695
+<a href="writing-schema.rst">writing-schema.rst</a>                                 23-Aug-2020 21:13                6430
+</pre><hr></body>
+</html>
